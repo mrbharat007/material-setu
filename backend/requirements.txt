@@ -1,0 +1,11 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+pydantic==2.11.7
+python-multipart==0.0.20
+rapidfuzz==3.13.0
+PyJWT==2.9.0
+bcrypt==4.2.1
+# Optional semantic matcher for the next milestone:
+# sentence-transformers==5.1.0
+psycopg[binary]>=3.2.10
+pgvector==0.4.1
