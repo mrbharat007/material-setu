@@ -1,0 +1,1756 @@
+code,name,symbol,quantity
+10,group,,mechanics
+11,outfit,,mechanics
+13,ration,,mechanics
+14,shot,,mechanics
+15,"stick, military",,mechanics
+20,twenty foot container,,mechanics
+21,forty foot container,,mechanics
+22,decilitre per gram,dl/g,space & time
+23,gram per cubic centimetre,g/cm³,space & time
+24,theoretical pound,,mechanics
+25,gram per square centimetre,g/cm²,space & time
+27,theoretical ton,,mechanics
+28,kilogram per square metre,kg/m²,space & time
+33,kilopascal square metre per gram,kPa·m²/g,space & time
+34,kilopascal per millimetre,kPa/mm,space & time
+35,millilitre per square centimetre second,ml/(cm²·s),space & time
+37,ounce per square foot,oz/ft²,periodic & related phenomena
+38,"ounce per square foot per 0,01inch",oz/(ft²/cin),mechanics
+40,millilitre per second,ml/s,space & time
+41,millilitre per minute,ml/min,space & time
+56,sitas,,mechanics
+57,mesh,,mechanics
+58,net kilogram,,mechanics
+59,part per million,ppm,mechanics
+60,percent weight,,mechanics
+61,part per billion (US),ppb,mechanics
+74,millipascal,mPa,space & time
+77,milli-inch,mil,periodic & related phenomena
+80,pound per square inch absolute,lb/in²,periodic & related phenomena
+81,henry,H,space & time
+85,foot pound-force,ft·lbf,periodic & related phenomena
+87,pound per cubic foot,lb/ft³,periodic & related phenomena
+89,poise,P,periodic & related phenomena
+91,stokes,St,periodic & related phenomena
+1I,fixed rate,,mechanics
+2A,radian per second,rad/s,space & time
+2B,radian per second squared,rad/s²,space & time
+2C,roentgen,R,periodic & related phenomena
+2G,volt AC,V,mechanics
+2H,volt DC,V,mechanics
+2I,British thermal unit (international table) per hour,BtuIT/h,periodic & related phenomena
+2J,cubic centimetre per second,cm³/s,space & time
+2K,cubic foot per hour,ft³/h,periodic & related phenomena
+2L,cubic foot per minute,ft³/min,periodic & related phenomena
+2M,centimetre per second,cm/s,space & time
+2N,decibel,dB,space & time
+2P,kilobyte,kbyte,mechanics
+2Q,kilobecquerel,kBq,space & time
+2R,kilocurie,kCi,periodic & related phenomena
+2U,megagram,Mg,space & time
+2X,metre per minute,m/min,space & time
+2Y,milliroentgen,mR,periodic & related phenomena
+2Z,millivolt,mV,space & time
+3B,megajoule,MJ,space & time
+3C,manmonth,,mechanics
+4C,centistokes,cSt,periodic & related phenomena
+4G,microlitre,µl,space & time
+4H,micrometre (micron),µm,space & time
+4K,milliampere,mA,space & time
+4L,megabyte,Mbyte,mechanics
+4M,milligram per hour,mg/h,space & time
+4N,megabecquerel,MBq,space & time
+4O,microfarad,µF,space & time
+4P,newton per metre,N/m,space & time
+4Q,ounce inch,oz·in,periodic & related phenomena
+4R,ounce foot,oz·ft,periodic & related phenomena
+4T,picofarad,pF,space & time
+4U,pound per hour,lb/h,periodic & related phenomena
+4W,ton (US) per hour,ton (US) /h,periodic & related phenomena
+4X,kilolitre per hour,kl/h,space & time
+5A,barrel (US) per minute,barrel (US)/min,periodic & related phenomena
+5B,batch,,mechanics
+5E,MMSCF/day,,mechanics
+5J,hydraulic horse power,,mechanics
+A10,ampere square metre per joule second,A·m²/(J·s),space & time
+A11,angstrom,Å,space & time
+A12,astronomical unit,ua,space & time
+A13,attojoule,aJ,space & time
+A14,barn,b,space & time
+A15,barn per electronvolt,b/eV,space & time
+A16,barn per steradian electronvolt,b/(sr·eV),space & time
+A17,barn per steradian,b/sr,space & time
+A18,becquerel per kilogram,Bq/kg,space & time
+A19,becquerel per cubic metre,Bq/m³,space & time
+A2,ampere per centimetre,A/cm,space & time
+A20,British thermal unit (international table) per second square foot degree Rankine,BtuIT/(s·ft²·°R),periodic & related phenomena
+A21,British thermal unit (international table) per pound degree Rankine,BtuIT/(lb·°R),periodic & related phenomena
+A22,British thermal unit (international table) per second foot degree Rankine,BtuIT/(s·ft·°R),periodic & related phenomena
+A23,British thermal unit (international table) per hour square foot degree Rankine,BtuIT/(h·ft²·°R),periodic & related phenomena
+A24,candela per square metre,cd/m²,space & time
+A26,coulomb metre,C·m,space & time
+A27,coulomb metre squared per volt,C·m²/V,space & time
+A28,coulomb per cubic centimetre,C/cm³,space & time
+A29,coulomb per cubic metre,C/m³,space & time
+A3,ampere per millimetre,A/mm,space & time
+A30,coulomb per cubic millimetre,C/mm³,space & time
+A31,coulomb per kilogram second,C/(kg·s),space & time
+A32,coulomb per mole,C/mol,space & time
+A33,coulomb per square centimetre,C/cm²,space & time
+A34,coulomb per square metre,C/m²,space & time
+A35,coulomb per square millimetre,C/mm²,space & time
+A36,cubic centimetre per mole,cm³/mol,space & time
+A37,cubic decimetre per mole,dm³/mol,space & time
+A38,cubic metre per coulomb,m³/C,space & time
+A39,cubic metre per kilogram,m³/kg,space & time
+A4,ampere per square centimetre,A/cm²,space & time
+A40,cubic metre per mole,m³/mol,space & time
+A41,ampere per square metre,A/m²,space & time
+A42,curie per kilogram,Ci/kg,periodic & related phenomena
+A43,deadweight tonnage,dwt,mechanics
+A44,decalitre,dal,space & time
+A45,decametre,dam,space & time
+A47,decitex,dtex (g/10km),mechanics
+A48,degree Rankine,°R,periodic & related phenomena
+A49,denier,den (g/9 km),mechanics
+A5,ampere square metre,A·m²,space & time
+A53,electronvolt,eV,space & time
+A54,electronvolt per metre,eV/m,space & time
+A55,electronvolt square metre,eV·m²,space & time
+A56,electronvolt square metre per kilogram,eV·m²/kg,space & time
+A59,8-part cloud cover,,mechanics
+A6,ampere per square metre kelvin squared,A/(m²·K²),space & time
+A68,exajoule,EJ,space & time
+A69,farad per metre,F/m,space & time
+A7,ampere per square millimetre,A/mm²,space & time
+A70,femtojoule,fJ,space & time
+A71,femtometre,fm,space & time
+A73,foot per second squared,ft/s²,periodic & related phenomena
+A74,foot pound-force per second,ft·lbf/s,periodic & related phenomena
+A75,freight ton,,mechanics
+A76,gal,Gal,space & time
+A8,ampere second,A·s,space & time
+A84,gigacoulomb per cubic metre,GC/m³,space & time
+A85,gigaelectronvolt,GeV,space & time
+A86,gigahertz,GHz,space & time
+A87,gigaohm,GΩ,space & time
+A88,gigaohm metre,GΩ·m,space & time
+A89,gigapascal,GPa,space & time
+A9,rate,,mechanics
+A90,gigawatt,GW,space & time
+A91,gon,gon,periodic & related phenomena
+A93,gram per cubic metre,g/m³,space & time
+A94,gram per mole,g/mol,space & time
+A95,gray,Gy,space & time
+A96,gray per second,Gy/s,space & time
+A97,hectopascal,hPa,space & time
+A98,henry per metre,H/m,space & time
+A99,bit,bit,mechanics
+AA,ball,,mechanics
+AB,bulk pack,pk,mechanics
+ACR,acre,acre,periodic & related phenomena
+ACT,activity,,mechanics
+AD,byte,byte,mechanics
+AE,ampere per metre,A/m,space & time
+AH,additional minute,,mechanics
+AI,average minute per call,,mechanics
+AK,fathom,fth,periodic & related phenomena
+AL,access line,,mechanics
+AMH,ampere hour,A·h,space & time
+AMP,ampere,A,space & time
+ANN,year,y,periodic & related phenomena
+APZ,troy ounce or apothecary ounce,tr oz,periodic & related phenomena
+AQ,anti-hemophilic factor (AHF) unit,,mechanics
+AS,assortment,,mechanics
+ASM,alcoholic strength by mass,,mechanics
+ASU,alcoholic strength by volume,,mechanics
+ATM,standard atmosphere,atm,space & time
+AWG,american wire gauge,AWG,periodic & related phenomena
+AY,assembly,,mechanics
+AZ,British thermal unit (international table) per pound,BtuIT/lb,periodic & related phenomena
+B1,barrel (US) per day,barrel (US)/d,mechanics
+B10,bit per second,bit/s,mechanics
+B11,joule per kilogram kelvin,J/(kg·K),space & time
+B12,joule per metre,J/m,space & time
+B13,joule per square metre,J/m²,space & time
+B14,joule per metre to the fourth power,J/m⁴,space & time
+B15,joule per mole,J/mol,space & time
+B16,joule per mole kelvin,J/(mol·K),space & time
+B17,credit,,mechanics
+B18,joule second,J·s,space & time
+B19,digit,,mechanics
+B20,joule square metre per kilogram,J·m²/kg,space & time
+B21,kelvin per watt,K/W,space & time
+B22,kiloampere,kA,space & time
+B23,kiloampere per square metre,kA/m²,space & time
+B24,kiloampere per metre,kA/m,space & time
+B25,kilobecquerel per kilogram,kBq/kg,space & time
+B26,kilocoulomb,kC,space & time
+B27,kilocoulomb per cubic metre,kC/m³,space & time
+B28,kilocoulomb per square metre,kC/m²,space & time
+B29,kiloelectronvolt,keV,space & time
+B3,batting pound,,mechanics
+B30,gibibit,Gibit,mechanics
+B31,kilogram metre per second,kg·m/s,space & time
+B32,kilogram metre squared,kg·m²,space & time
+B33,kilogram metre squared per second,kg·m²/s,space & time
+B34,kilogram per cubic decimetre,kg/dm³,space & time
+B35,kilogram per litre,kg/l or kg/L,space & time
+B4,"barrel, imperial",,mechanics
+B41,kilojoule per kelvin,kJ/K,space & time
+B42,kilojoule per kilogram,kJ/kg,space & time
+B43,kilojoule per kilogram kelvin,kJ/(kg·K),space & time
+B44,kilojoule per mole,kJ/mol,space & time
+B45,kilomole,kmol,space & time
+B46,kilomole per cubic metre,kmol/m³,space & time
+B47,kilonewton,kN,space & time
+B48,kilonewton metre,kN·m,space & time
+B49,kiloohm,kΩ,space & time
+B50,kiloohm metre,kΩ·m,space & time
+B52,kilosecond,ks,space & time
+B53,kilosiemens,kS,space & time
+B54,kilosiemens per metre,kS/m,space & time
+B55,kilovolt per metre,kV/m,space & time
+B56,kiloweber per metre,kWb/m,space & time
+B57,light year,ly,periodic & related phenomena
+B58,litre per mole,l/mol,space & time
+B59,lumen hour,lm·h,space & time
+B60,lumen per square metre,lm/m²,space & time
+B61,lumen per watt,lm/W,space & time
+B62,lumen second,lm·s,space & time
+B63,lux hour,lx·h,space & time
+B64,lux second,lx·s,space & time
+B66,megaampere per square metre,MA/m²,space & time
+B67,megabecquerel per kilogram,MBq/kg,space & time
+B68,gigabit,Gbit,mechanics
+B69,megacoulomb per cubic metre,MC/m³,space & time
+B7,cycle,,mechanics
+B70,megacoulomb per square metre,MC/m²,space & time
+B71,megaelectronvolt,MeV,space & time
+B72,megagram per cubic metre,Mg/m³,space & time
+B73,meganewton,MN,space & time
+B74,meganewton metre,MN·m,space & time
+B75,megaohm,MΩ,space & time
+B76,megaohm metre,MΩ·m,space & time
+B77,megasiemens per metre,MS/m,space & time
+B78,megavolt,MV,space & time
+B79,megavolt per metre,MV/m,space & time
+B8,joule per cubic metre,J/m³,space & time
+B80,gigabit per second,Gbit/s,mechanics
+B81,reciprocal metre squared reciprocal second,m⁻²/s,space & time
+B82,inch per linear foot,,mechanics
+B83,metre to the fourth power,m⁴,space & time
+B84,microampere,µA,space & time
+B85,microbar,µbar,space & time
+B86,microcoulomb,µC,space & time
+B87,microcoulomb per cubic metre,µC/m³,space & time
+B88,microcoulomb per square metre,µC/m²,space & time
+B89,microfarad per metre,µF/m,space & time
+B90,microhenry,µH,space & time
+B91,microhenry per metre,µH/m,space & time
+B92,micronewton,µN,space & time
+B93,micronewton metre,µN·m,space & time
+B94,microohm,µΩ,space & time
+B95,microohm metre,µΩ·m,space & time
+B96,micropascal,µPa,space & time
+B97,microradian,µrad,space & time
+B98,microsecond,µs,space & time
+B99,microsiemens,µS,space & time
+BAR,bar [unit of pressure],bar,space & time
+BB,base box,,mechanics
+BFT,board foot,fbm,mechanics
+BHP,brake horse power,BHP,periodic & related phenomena
+BIL,billion (EUR),,mechanics
+BLD,dry barrel (US),bbl (US),periodic & related phenomena
+BLL,barrel (US),barrel (US),periodic & related phenomena
+BP,hundred board foot,,mechanics
+BPM,beats per minute,BPM,mechanics
+BQL,becquerel,Bq,space & time
+BTU,British thermal unit (international table),BtuIT,periodic & related phenomena
+BUA,bushel (US),bu (US),periodic & related phenomena
+BUI,bushel (UK),bushel (UK),periodic & related phenomena
+C0,call,,mechanics
+C10,millifarad,mF,space & time
+C11,milligal,mGal,space & time
+C12,milligram per metre,mg/m,space & time
+C13,milligray,mGy,space & time
+C14,millihenry,mH,space & time
+C15,millijoule,mJ,space & time
+C16,millimetre per second,mm/s,space & time
+C17,millimetre squared per second,mm²/s,space & time
+C18,millimole,mmol,space & time
+C19,mole per kilogram,mol/kg,space & time
+C20,millinewton,mN,space & time
+C21,kibibit,Kibit,mechanics
+C22,millinewton per metre,mN/m,space & time
+C23,milliohm metre,mΩ·m,space & time
+C24,millipascal second,mPa·s,space & time
+C25,milliradian,mrad,space & time
+C26,millisecond,ms,space & time
+C27,millisiemens,mS,space & time
+C28,millisievert,mSv,space & time
+C29,millitesla,mT,space & time
+C3,microvolt per metre,µV/m,space & time
+C30,millivolt per metre,mV/m,space & time
+C31,milliwatt,mW,space & time
+C32,milliwatt per square metre,mW/m²,space & time
+C33,milliweber,mWb,space & time
+C34,mole,mol,space & time
+C35,mole per cubic decimetre,mol/dm³,space & time
+C36,mole per cubic metre,mol/m³,space & time
+C37,kilobit,kbit,mechanics
+C38,mole per litre,mol/l,space & time
+C39,nanoampere,nA,space & time
+C40,nanocoulomb,nC,space & time
+C41,nanofarad,nF,space & time
+C42,nanofarad per metre,nF/m,space & time
+C43,nanohenry,nH,space & time
+C44,nanohenry per metre,nH/m,space & time
+C45,nanometre,nm,space & time
+C46,nanoohm metre,nΩ·m,space & time
+C47,nanosecond,ns,space & time
+C48,nanotesla,nT,space & time
+C49,nanowatt,nW,space & time
+C50,neper,Np,space & time
+C51,neper per second,Np/s,space & time
+C52,picometre,pm,space & time
+C53,newton metre second,N·m·s,space & time
+C54,newton metre squared per kilogram squared,N·m²/kg²,space & time
+C55,newton per square metre,N/m²,space & time
+C56,newton per square millimetre,N/mm²,space & time
+C57,newton second,N·s,space & time
+C58,newton second per metre,N·s/m,space & time
+C59,octave,,space & time
+C60,ohm centimetre,Ω·cm,space & time
+C61,ohm metre,Ω·m,space & time
+C62,one,1,space & time
+C63,parsec,pc,space & time
+C64,pascal per kelvin,Pa/K,space & time
+C65,pascal second,Pa·s,space & time
+C66,pascal second per cubic metre,Pa·s/m³,space & time
+C67,pascal second per metre,Pa· s/m,space & time
+C68,petajoule,PJ,space & time
+C69,phon,,space & time
+C7,centipoise,cP,periodic & related phenomena
+C70,picoampere,pA,space & time
+C71,picocoulomb,pC,space & time
+C72,picofarad per metre,pF/m,space & time
+C73,picohenry,pH,space & time
+C74,kilobit per second,kbit/s,mechanics
+C75,picowatt,pW,space & time
+C76,picowatt per square metre,pW/m²,space & time
+C78,pound-force,lbf,periodic & related phenomena
+C79,kilovolt ampere hour,kVAh,mechanics
+C8,millicoulomb per kilogram,mC/kg,space & time
+C80,rad,rad,periodic & related phenomena
+C81,radian,rad,space & time
+C82,radian square metre per mole,rad·m²/mol,space & time
+C83,radian square metre per kilogram,rad·m²/kg,space & time
+C84,radian per metre,rad/m,space & time
+C85,reciprocal angstrom,Å⁻¹,space & time
+C86,reciprocal cubic metre,m⁻³,space & time
+C87,reciprocal cubic metre per second,m⁻³/s,space & time
+C88,reciprocal electron volt per cubic metre,eV⁻¹/m³,space & time
+C89,reciprocal henry,H⁻¹,space & time
+C9,coil group,,mechanics
+C90,reciprocal joule per cubic metre,J⁻¹/m³,space & time
+C91,reciprocal kelvin or kelvin to the power minus one,K⁻¹,space & time
+C92,reciprocal metre,m⁻¹,space & time
+C93,reciprocal square metre,m⁻²,space & time
+C94,reciprocal minute,min⁻¹,space & time
+C95,reciprocal mole,mol⁻¹,space & time
+C96,reciprocal pascal or pascal to the power minus one,Pa⁻¹,space & time
+C97,reciprocal second,s⁻¹,space & time
+C99,reciprocal second per metre squared,s⁻¹/m²,space & time
+CCT,carrying capacity in metric ton,,mechanics
+CDL,candela,cd,space & time
+CEL,degree Celsius,°C,space & time
+CEN,hundred,,mechanics
+CG,card,,mechanics
+CGM,centigram,cg,space & time
+CKG,coulomb per kilogram,C/kg,space & time
+CLF,hundred leave,,mechanics
+CLT,centilitre,cl,space & time
+CMK,square centimetre,cm²,space & time
+CMQ,cubic centimetre,cm³,space & time
+CMT,centimetre,cm,space & time
+CNP,hundred pack,,mechanics
+CNT,cental (UK),,mechanics
+COU,coulomb,C,space & time
+CTG,content gram,,mechanics
+CTM,metric carat,,mechanics
+CTN,content ton (metric),,mechanics
+CUR,curie,Ci,periodic & related phenomena
+CWA,hundred pound (cwt) / hundred weight (US),cwt (US),periodic & related phenomena
+CWI,hundred weight (UK),cwt (UK),periodic & related phenomena
+D03,kilowatt hour per hour,kW·h/h,mechanics
+D04,lot [unit of weight],,mechanics
+D1,reciprocal second per steradian,s⁻¹/sr,space & time
+D10,siemens per metre,S/m,space & time
+D11,mebibit,Mibit,mechanics
+D12,siemens square metre per mole,S·m²/mol,space & time
+D13,sievert,Sv,space & time
+D15,sone,,space & time
+D16,square centimetre per erg,cm²/erg,periodic & related phenomena
+D17,square centimetre per steradian erg,cm²/(sr·erg),periodic & related phenomena
+D18,metre kelvin,m·K,space & time
+D19,square metre kelvin per watt,m²·K/W,space & time
+D2,reciprocal second per steradian metre squared,s⁻¹/(sr·m²),space & time
+D20,square metre per joule,m²/J,space & time
+D21,square metre per kilogram,m²/kg,space & time
+D22,square metre per mole,m²/mol,space & time
+D23,pen gram (protein),,mechanics
+D24,square metre per steradian,m²/sr,space & time
+D25,square metre per steradian joule,m²/(sr·J),space & time
+D26,square metre per volt second,m²/(V·s),space & time
+D27,steradian,sr,space & time
+D29,terahertz,THz,space & time
+D30,terajoule,TJ,space & time
+D31,terawatt,TW,space & time
+D32,terawatt hour,TW·h,space & time
+D33,tesla,T,space & time
+D34,tex,tex (g/km),mechanics
+D36,megabit,Mbit,mechanics
+D41,tonne per cubic metre,t/m³,space & time
+D42,tropical year,y (tropical),periodic & related phenomena
+D43,unified atomic mass unit,u,space & time
+D44,var,var,space & time
+D45,volt squared per kelvin squared,V²/K²,space & time
+D46,volt - ampere,V·A,space & time
+D47,volt per centimetre,V/cm,space & time
+D48,volt per kelvin,V/K,space & time
+D49,millivolt per kelvin,mV/K,space & time
+D5,kilogram per square centimetre,kg/cm²,periodic & related phenomena
+D50,volt per metre,V/m,space & time
+D51,volt per millimetre,V/mm,space & time
+D52,watt per kelvin,W/K,space & time
+D53,watt per metre kelvin,W/(m·K),space & time
+D54,watt per square metre,W/m²,space & time
+D55,watt per square metre kelvin,W/(m²·K),space & time
+D56,watt per square metre kelvin to the fourth power,W/(m²·K⁴),space & time
+D57,watt per steradian,W/sr,space & time
+D58,watt per steradian square metre,W/(sr·m²),space & time
+D59,weber per metre,Wb/m,space & time
+D6,roentgen per second,R/s,periodic & related phenomena
+D60,weber per millimetre,Wb/mm,space & time
+D61,minute [unit of angle],',space & time
+D62,second [unit of angle],"""",space & time
+D63,book,,mechanics
+D65,round,,mechanics
+D68,number of words,,mechanics
+D69,inch to the fourth power,in⁴,periodic & related phenomena
+D73,joule square metre,J·m²,space & time
+D74,kilogram per mole,kg/mol,space & time
+D77,megacoulomb,MC,space & time
+D78,megajoule per second,MJ/s,mechanics
+D80,microwatt,µW,space & time
+D81,microtesla,µT,space & time
+D82,microvolt,µV,space & time
+D83,millinewton metre,mN·m,space & time
+D85,microwatt per square metre,µW/m²,space & time
+D86,millicoulomb,mC,space & time
+D87,millimole per kilogram,mmol/kg,space & time
+D88,millicoulomb per cubic metre,mC/m³,space & time
+D89,millicoulomb per square metre,mC/m²,space & time
+D91,rem,rem,periodic & related phenomena
+D93,second per cubic metre,s/m³,space & time
+D94,second per cubic metre radian,s/(rad·m³),space & time
+D95,joule per gram,J/g,space & time
+DAA,decare,daa,space & time
+DAD,ten day,,mechanics
+DAY,day,d,space & time
+DB,dry pound,,mechanics
+DD,degree [unit of angle],°,space & time
+DEC,decade,,mechanics
+DG,decigram,dg,space & time
+DJ,decagram,dag,space & time
+DLT,decilitre,dl,space & time
+DMA,cubic decametre,dam³,space & time
+DMK,square decimetre,dm²,space & time
+DMO,standard kilolitre,,mechanics
+DMQ,cubic decimetre,dm³,space & time
+DMT,decimetre,dm,space & time
+DN,decinewton metre,dN·m,space & time
+DPC,dozen piece,,mechanics
+DPR,dozen pair,,mechanics
+DPT,displacement tonnage,,mechanics
+DRA,dram (US),,mechanics
+DRI,dram (UK),,mechanics
+DRL,dozen roll,,mechanics
+DT,dry ton,,mechanics
+DTN,decitonne,dt or dtn,space & time
+DWT,pennyweight,,mechanics
+DZN,dozen,DOZ,mechanics
+DZP,dozen pack,,mechanics
+E01,newton per square centimetre,N/cm²,space & time
+E07,megawatt hour per hour,MW·h/h,mechanics
+E08,megawatt per hertz,MW/Hz,mechanics
+E09,milliampere hour,mA·h,space & time
+E10,degree day,deg da,mechanics
+E12,mille,,mechanics
+E14,kilocalorie (international table),kcalIT,periodic & related phenomena
+E15,kilocalorie (thermochemical) per hour,kcalth/h,periodic & related phenomena
+E16,million Btu(IT) per hour,BtuIT/h,mechanics
+E17,cubic foot per second,ft³/s,mechanics
+E18,tonne per hour,t/h,periodic & related phenomena
+E19,ping,,mechanics
+E20,megabit per second,Mbit/s,mechanics
+E21,shares,,mechanics
+E22,TEU,,mechanics
+E23,tyre,,mechanics
+E25,active unit,,mechanics
+E27,dose,,mechanics
+E28,air dry ton,,mechanics
+E30,strand,,mechanics
+E31,square metre per litre,m²/l,mechanics
+E32,litre per hour,l/h,mechanics
+E33,foot per thousand,,mechanics
+E34,gigabyte,Gbyte,mechanics
+E35,terabyte,Tbyte,mechanics
+E36,petabyte,Pbyte,mechanics
+E37,pixel,,mechanics
+E38,megapixel,,mechanics
+E39,dots per inch,dpi,mechanics
+E4,gross kilogram,,mechanics
+E40,part per hundred thousand,ppht,mechanics
+E41,kilogram-force per square millimetre,kgf/mm²,periodic & related phenomena
+E42,kilogram-force per square centimetre,kgf/cm²,periodic & related phenomena
+E43,joule per square centimetre,J/cm²,space & time
+E44,kilogram-force metre per square centimetre,kgf·m/cm²,mechanics
+E45,milliohm,mΩ,space & time
+E46,kilowatt hour per cubic metre,kW·h/m³,mechanics
+E47,kilowatt hour per kelvin,kW·h/K,mechanics
+E48,service unit,,mechanics
+E49,working day,,mechanics
+E50,accounting unit,,mechanics
+E51,job,,mechanics
+E52,run foot,,mechanics
+E53,test,,mechanics
+E54,trip,,mechanics
+E55,use,,mechanics
+E56,well,,mechanics
+E57,zone,,mechanics
+E58,exabit per second,Ebit/s,mechanics
+E59,exbibyte,Eibyte,mechanics
+E60,pebibyte,Pibyte,mechanics
+E61,tebibyte,Tibyte,mechanics
+E62,gibibyte,Gibyte,mechanics
+E63,mebibyte,Mibyte,mechanics
+E64,kibibyte,Kibyte,mechanics
+E65,exbibit per metre,Eibit/m,mechanics
+E66,exbibit per square metre,Eibit/m²,mechanics
+E67,exbibit per cubic metre,Eibit/m³,mechanics
+E68,gigabyte per second,Gbyte/s,mechanics
+E69,gibibit per metre,Gibit/m,mechanics
+E70,gibibit per square metre,Gibit/m²,mechanics
+E71,gibibit per cubic metre,Gibit/m³,mechanics
+E72,kibibit per metre,Kibit/m,mechanics
+E73,kibibit per square metre,Kibit/m²,mechanics
+E74,kibibit per cubic metre,Kibit/m³,mechanics
+E75,mebibit per metre,Mibit/m,mechanics
+E76,mebibit per square metre,Mibit/m²,mechanics
+E77,mebibit per cubic metre,Mibit/m³,mechanics
+E78,petabit,Pbit,mechanics
+E79,petabit per second,Pbit/s,mechanics
+E80,pebibit per metre,Pibit/m,mechanics
+E81,pebibit per square metre,Pibit/m²,mechanics
+E82,pebibit per cubic metre,Pibit/m³,mechanics
+E83,terabit,Tbit,mechanics
+E84,terabit per second,Tbit/s,mechanics
+E85,tebibit per metre,Tibit/m,mechanics
+E86,tebibit per cubic metre,Tibit/m³,mechanics
+E87,tebibit per square metre,Tibit/m²,mechanics
+E88,bit per metre,bit/m,mechanics
+E89,bit per square metre,bit/m²,mechanics
+E90,reciprocal centimetre,cm⁻¹,mechanics
+E91,reciprocal day,d⁻¹,mechanics
+E92,cubic decimetre per hour,dm³/h,space & time
+E93,kilogram per hour,kg/h,space & time
+E94,kilomole per second,kmol/s,space & time
+E95,mole per second,mol/s,space & time
+E96,degree per second,°/s,space & time
+E97,millimetre per degree Celcius metre,mm/(°C·m),space & time
+E98,degree Celsius per kelvin,°C/K,space & time
+E99,hectopascal per bar,hPa/bar,space & time
+EA,each,,mechanics
+EB,electronic mail box,,mechanics
+EQ,equivalent gallon,,mechanics
+F01,bit per cubic metre,bit/m³,mechanics
+F02,kelvin per kelvin,K/K,space & time
+F03,kilopascal per bar,kPa/bar,space & time
+F04,millibar per bar,mbar/bar,space & time
+F05,megapascal per bar,MPa/bar,space & time
+F06,poise per bar,P/bar,periodic & related phenomena
+F07,pascal per bar,Pa/bar,space & time
+F08,milliampere per inch,mA/in,periodic & related phenomena
+F10,kelvin per hour,K/h,space & time
+F11,kelvin per minute,K/min,space & time
+F12,kelvin per second,K/s,space & time
+F13,slug,slug,periodic & related phenomena
+F14,gram per kelvin,g/K,space & time
+F15,kilogram per kelvin,kg/K,space & time
+F16,milligram per kelvin,mg/K,space & time
+F17,pound-force per foot,lbf/ft,periodic & related phenomena
+F18,kilogram square centimetre,kg·cm²,space & time
+F19,kilogram square millimetre,kg·mm²,space & time
+F20,pound inch squared,lb·in²,periodic & related phenomena
+F21,pound-force inch,lbf·in,periodic & related phenomena
+F22,pound-force foot per ampere,lbf·ft/A,periodic & related phenomena
+F23,gram per cubic decimetre,g/dm³,space & time
+F24,kilogram per kilomol,kg/kmol,space & time
+F25,gram per hertz,g/Hz,space & time
+F26,gram per day,g/d,space & time
+F27,gram per hour,g/h,space & time
+F28,gram per minute,g/min,space & time
+F29,gram per second,g/s,space & time
+F30,kilogram per day,kg/d,space & time
+F31,kilogram per minute,kg/min,space & time
+F32,milligram per day,mg/d,space & time
+F33,milligram per minute,mg/min,space & time
+F34,milligram per second,mg/s,space & time
+F35,gram per day kelvin,g/(d·K),space & time
+F36,gram per hour kelvin,g/(h·K),space & time
+F37,gram per minute kelvin,g/(min·K),space & time
+F38,gram per second kelvin,g/(s·K),space & time
+F39,kilogram per day kelvin,kg/(d·K),space & time
+F40,kilogram per hour kelvin,kg/(h·K),space & time
+F41,kilogram per minute kelvin,kg/(min·K),space & time
+F42,kilogram per second kelvin,kg/(s·K),space & time
+F43,milligram per day kelvin,mg/(d·K),space & time
+F44,milligram per hour kelvin,mg/(h·K),space & time
+F45,milligram per minute kelvin,mg/(min·K),space & time
+F46,milligram per second kelvin,mg/(s·K),space & time
+F47,newton per millimetre,N/mm,space & time
+F48,pound-force per inch,lbf/in,periodic & related phenomena
+F49,rod [unit of distance],rd (US),periodic & related phenomena
+F50,micrometre per kelvin,µm/K,space & time
+F51,centimetre per kelvin,cm/K,space & time
+F52,metre per kelvin,m/K,space & time
+F53,millimetre per kelvin,mm/K,space & time
+F54,milliohm per metre,mΩ/m,space & time
+F55,ohm per mile (statute mile),Ω/mi,periodic & related phenomena
+F56,ohm per kilometre,Ω/km,space & time
+F57,milliampere per pound-force per square inch,mA/(lbf/in²),periodic & related phenomena
+F58,reciprocal bar,1/bar,space & time
+F59,milliampere per bar,mA/bar,space & time
+F60,degree Celsius per bar,°C/bar,space & time
+F61,kelvin per bar,K/bar,space & time
+F62,gram per day bar,g/(d·bar),space & time
+F63,gram per hour bar,g/(h·bar),space & time
+F64,gram per minute bar,g/(min·bar),space & time
+F65,gram per second bar,g/(s·bar),space & time
+F66,kilogram per day bar,kg/(d·bar),space & time
+F67,kilogram per hour bar,kg/(h·bar),space & time
+F68,kilogram per minute bar,kg/(min·bar),space & time
+F69,kilogram per second bar,kg/(s·bar),space & time
+F70,milligram per day bar,mg/(d·bar),space & time
+F71,milligram per hour bar,mg/(h·bar),space & time
+F72,milligram per minute bar,mg/(min·bar),space & time
+F73,milligram per second bar,mg/(s·bar),space & time
+F74,gram per bar,g/bar,space & time
+F75,milligram per bar,mg/bar,space & time
+F76,milliampere per millimetre,mA/mm,space & time
+F77,pascal second per kelvin,Pa.s/K,space & time
+F78,inch of water,inH₂O,periodic & related phenomena
+F79,inch of mercury,inHg,periodic & related phenomena
+F80,water horse power,,periodic & related phenomena
+F81,bar per kelvin,bar/K,space & time
+F82,hectopascal per kelvin,hPa/K,space & time
+F83,kilopascal per kelvin,kPa/K,space & time
+F84,millibar per kelvin,mbar/K,space & time
+F85,megapascal per kelvin,MPa/K,space & time
+F86,poise per kelvin,P/K,periodic & related phenomena
+F87,volt per litre minute,V/(l·min),space & time
+F88,newton centimetre,N·cm,space & time
+F89,newton metre per degree,Nm/°,space & time
+F90,newton metre per ampere,N·m/A,space & time
+F91,bar litre per second,bar·l/s,space & time
+F92,bar cubic metre per second,bar·m³/s,space & time
+F93,hectopascal litre per second,hPa·l/s,space & time
+F94,hectopascal cubic metre per second,hPa·m³/s,space & time
+F95,millibar litre per second,mbar·l/s,space & time
+F96,millibar cubic metre per second,mbar·m³/s,space & time
+F97,megapascal litre per second,MPa·l/s,space & time
+F98,megapascal cubic metre per second,MPa·m³/s,space & time
+F99,pascal litre per second,Pa·l/s,space & time
+FAH,degree Fahrenheit,°F,periodic & related phenomena
+FAR,farad,F,space & time
+FBM,fibre metre,,mechanics
+FC,thousand cubic foot,kft³,mechanics
+FF,hundred cubic metre,,mechanics
+FH,micromole,µmol,space & time
+FIT,failures in time,FIT,mechanics
+FL,flake ton,,mechanics
+FOT,foot,ft,periodic & related phenomena
+FP,pound per square foot,lb/ft²,periodic & related phenomena
+FR,foot per minute,ft/min,periodic & related phenomena
+FS,foot per second,ft/s,periodic & related phenomena
+FTK,square foot,ft²,periodic & related phenomena
+FTQ,cubic foot,ft³,periodic & related phenomena
+G01,pascal cubic metre per second,Pa·m³/s,space & time
+G04,centimetre per bar,cm/bar,space & time
+G05,metre per bar,m/bar,space & time
+G06,millimetre per bar,mm/bar,space & time
+G08,square inch per second,in²/s,periodic & related phenomena
+G09,square metre per second kelvin,m²/(s·K),space & time
+G10,stokes per kelvin,St/K,periodic & related phenomena
+G11,gram per cubic centimetre bar,g/(cm³·bar),space & time
+G12,gram per cubic decimetre bar,g/(dm³·bar),space & time
+G13,gram per litre bar,g/(l·bar),space & time
+G14,gram per cubic metre bar,g/(m³·bar),space & time
+G15,gram per millilitre bar,g/(ml·bar),space & time
+G16,kilogram per cubic centimetre bar,kg/(cm³·bar),space & time
+G17,kilogram per litre bar,kg/(l·bar),space & time
+G18,kilogram per cubic metre bar,kg/(m³·bar),space & time
+G19,newton metre per kilogram,N·m/kg,space & time
+G2,US gallon per minute,gal (US) /min,periodic & related phenomena
+G20,pound-force foot per pound,lbf·ft/lb,periodic & related phenomena
+G21,cup [unit of volume],cup (US),periodic & related phenomena
+G23,peck,pk (US),periodic & related phenomena
+G24,tablespoon (US),tablespoon (US),periodic & related phenomena
+G25,teaspoon (US),teaspoon (US),periodic & related phenomena
+G26,stere,st,space & time
+G27,cubic centimetre per kelvin,cm³/K,space & time
+G28,litre per kelvin,l/K,space & time
+G29,cubic metre per kelvin,m³/K,space & time
+G3,Imperial gallon per minute,gal (UK) /min,periodic & related phenomena
+G30,millilitre per kelvin,ml/K,space & time
+G31,kilogram per cubic centimetre,kg/cm³,space & time
+G32,ounce (avoirdupois) per cubic yard,oz/yd³,periodic & related phenomena
+G33,gram per cubic centimetre kelvin,g/(cm³·K),space & time
+G34,gram per cubic decimetre kelvin,g/(dm³·K),space & time
+G35,gram per litre kelvin,g/(l·K),space & time
+G36,gram per cubic metre kelvin,g/(m³·K),space & time
+G37,gram per millilitre kelvin,g/(ml·K),space & time
+G38,kilogram per cubic centimetre kelvin,kg/(cm³·K),space & time
+G39,kilogram per litre kelvin,kg/(l·K),space & time
+G40,kilogram per cubic metre kelvin,kg/(m³·K),space & time
+G41,square metre per second bar,m²/(s·bar),space & time
+G42,microsiemens per centimetre,µS/cm,space & time
+G43,microsiemens per metre,µS/m,space & time
+G44,nanosiemens per centimetre,nS/cm,space & time
+G45,nanosiemens per metre,nS/m,space & time
+G46,stokes per bar,St/bar,periodic & related phenomena
+G47,cubic centimetre per day,cm³/d,space & time
+G48,cubic centimetre per hour,cm³/h,space & time
+G49,cubic centimetre per minute,cm³/min,space & time
+G50,gallon (US) per hour,gal/h,periodic & related phenomena
+G51,litre per second,l/s,space & time
+G52,cubic metre per day,m³/d,space & time
+G53,cubic metre per minute,m³/min,space & time
+G54,millilitre per day,ml/d,space & time
+G55,millilitre per hour,ml/h,space & time
+G56,cubic inch per hour,in³/h,periodic & related phenomena
+G57,cubic inch per minute,in³/min,periodic & related phenomena
+G58,cubic inch per second,in³/s,periodic & related phenomena
+G59,milliampere per litre minute,mA/(l·min),space & time
+G60,volt per bar,V/bar,space & time
+G61,cubic centimetre per day kelvin,cm³/(d·K),space & time
+G62,cubic centimetre per hour kelvin,cm³/(h·K),space & time
+G63,cubic centimetre per minute kelvin,cm³/(min·K),space & time
+G64,cubic centimetre per second kelvin,cm³/(s·K),space & time
+G65,litre per day kelvin,l/(d·K),space & time
+G66,litre per hour kelvin,l/(h·K),space & time
+G67,litre per minute kelvin,l/(min·K),space & time
+G68,litre per second kelvin,l/(s·K),space & time
+G69,cubic metre per day kelvin,m³/(d·K),space & time
+G70,cubic metre per hour kelvin,m³/(h·K),space & time
+G71,cubic metre per minute kelvin,m³/(min·K),space & time
+G72,cubic metre per second kelvin,m³/(s·K),space & time
+G73,millilitre per day kelvin,ml/(d·K),space & time
+G74,millilitre per hour kelvin,ml/(h·K),space & time
+G75,millilitre per minute kelvin,ml/(min·K),space & time
+G76,millilitre per second kelvin,ml/(s·K),space & time
+G77,millimetre to the fourth power,mm⁴,space & time
+G78,cubic centimetre per day bar,cm³/(d·bar),space & time
+G79,cubic centimetre per hour bar,cm³/(h·bar),space & time
+G80,cubic centimetre per minute bar,cm³/(min·bar),space & time
+G81,cubic centimetre per second bar,cm³/(s·bar),space & time
+G82,litre per day bar,l/(d·bar),space & time
+G83,litre per hour bar,l/(h·bar),space & time
+G84,litre per minute bar,l/(min·bar),space & time
+G85,litre per second bar,l/(s·bar),space & time
+G86,cubic metre per day bar,m³/(d·bar),space & time
+G87,cubic metre per hour bar,m³/(h·bar),space & time
+G88,cubic metre per minute bar,m³/(min·bar),space & time
+G89,cubic metre per second bar,m³/(s·bar),space & time
+G90,millilitre per day bar,ml/(d·bar),space & time
+G91,millilitre per hour bar,ml/(h·bar),space & time
+G92,millilitre per minute bar,ml/(min·bar),space & time
+G93,millilitre per second bar,ml/(s·bar),space & time
+G94,cubic centimetre per bar,cm³/bar,space & time
+G95,litre per bar,l/bar,space & time
+G96,cubic metre per bar,m³/bar,space & time
+G97,millilitre per bar,ml/bar,space & time
+G98,microhenry per kiloohm,µH/kΩ,space & time
+G99,microhenry per ohm,µH/Ω,space & time
+GB,gallon (US) per day,gal (US)/d,mechanics
+GBQ,gigabecquerel,GBq,space & time
+GDW,"gram, dry weight",,mechanics
+GE,pound per gallon (US),lb/gal (US),periodic & related phenomena
+GF,gram per metre (gram per 100 centimetres),g/m,space & time
+GFI,gram of fissile isotope,gi F/S,mechanics
+GGR,great gross,,mechanics
+GIA,gill (US),gi (US),mechanics
+GIC,"gram, including container",,mechanics
+GII,gill (UK),gi (UK),mechanics
+GIP,"gram, including inner packaging",,mechanics
+GJ,gram per millilitre,g/ml,space & time
+GL,gram per litre,g/l,space & time
+GLD,dry gallon (US),dry gal (US),periodic & related phenomena
+GLI,gallon (UK),gal (UK),periodic & related phenomena
+GLL,gallon (US),gal (US),periodic & related phenomena
+GM,gram per square metre,g/m²,space & time
+GO,milligram per square metre,mg/m²,space & time
+GP,milligram per cubic metre,mg/m³,space & time
+GQ,microgram per cubic metre,µg/m³,space & time
+GRM,gram,g,space & time
+GRN,grain,gr,periodic & related phenomena
+GRO,gross,gr,mechanics
+GV,gigajoule,GJ,space & time
+GWH,gigawatt hour,GW·h,space & time
+H03,henry per kiloohm,H/kΩ,space & time
+H04,henry per ohm,H/Ω,space & time
+H05,millihenry per kiloohm,mH/kΩ,space & time
+H06,millihenry per ohm,mH/Ω,space & time
+H07,pascal second per bar,Pa·s/bar,space & time
+H08,microbecquerel,µBq,space & time
+H09,reciprocal year,1/y,space & time
+H10,reciprocal hour,1/h,space & time
+H11,reciprocal month,1/mo,space & time
+H12,degree Celsius per hour,°C/h,space & time
+H13,degree Celsius per minute,°C/min,space & time
+H14,degree Celsius per second,°C/s,space & time
+H15,square centimetre per gram,cm²/g,space & time
+H16,square decametre,dam²,space & time
+H18,square hectometre,hm²,space & time
+H19,cubic hectometre,hm³,space & time
+H20,cubic kilometre,km³,space & time
+H21,blank,,mechanics
+H22,volt square inch per pound-force,V/(lbf/in²),periodic & related phenomena
+H23,volt per inch,V/in,periodic & related phenomena
+H24,volt per microsecond,V/µs,space & time
+H25,percent per kelvin,%/K,mechanics
+H26,ohm per metre,Ω/m,space & time
+H27,degree per metre,°/m,periodic & related phenomena
+H28,microfarad per kilometre,µF/km,space & time
+H29,microgram per litre,µg/l,space & time
+H30,square micrometre (square micron),µm²,space & time
+H31,ampere per kilogram,A/kg,space & time
+H32,ampere squared second,A²·s,space & time
+H33,farad per kilometre,F/km,space & time
+H34,hertz metre,Hz·m,periodic & related phenomena
+H35,kelvin metre per watt,K·m/W,space & time
+H36,megaohm per kilometre,MΩ/km,space & time
+H37,megaohm per metre,MΩ/m,space & time
+H38,megaampere,MA,space & time
+H39,megahertz kilometre,MHz·km,periodic & related phenomena
+H40,newton per ampere,N/A,space & time
+H41,"newton metre watt to the power minus 0,5",N·m·W⁻⁰‧⁵,periodic & related phenomena
+H42,pascal per metre,Pa/m,space & time
+H43,siemens per centimetre,S/cm,space & time
+H44,teraohm,TΩ,space & time
+H45,volt second per metre,V·s/m,space & time
+H46,volt per second,V/s,space & time
+H47,watt per cubic metre,W/m³,space & time
+H48,attofarad,aF,space & time
+H49,centimetre per hour,cm/h,space & time
+H50,reciprocal cubic centimetre,cm⁻³,space & time
+H51,decibel per kilometre,dB/km,space & time
+H52,decibel per metre,dB/m,space & time
+H53,kilogram per bar,kg/bar,space & time
+H54,kilogram per cubic decimetre kelvin,(kg/dm³)/K,space & time
+H55,kilogram per cubic decimetre bar,(kg/dm³)/bar,space & time
+H56,kilogram per square metre second,kg/(m²·s),space & time
+H57,inch per two pi radiant,in/revolution,periodic & related phenomena
+H58,metre per volt second,m/(V·s),space & time
+H59,square metre per newton,m²/N,space & time
+H60,cubic metre per cubic metre,m³/m³,space & time
+H61,millisiemens per centimetre,mS/cm,space & time
+H62,millivolt per minute,mV/min,space & time
+H63,milligram per square centimetre,mg/cm²,space & time
+H64,milligram per gram,mg/g,space & time
+H65,millilitre per cubic metre,ml/m³,space & time
+H66,millimetre per year,mm/y,periodic & related phenomena
+H67,millimetre per hour,mm/h,periodic & related phenomena
+H68,millimole per gram,mmol/g,space & time
+H69,picopascal per kilometre,pPa/km,space & time
+H70,picosecond,ps,space & time
+H71,percent per month,%/mo,mechanics
+H72,percent per hectobar,%/hbar,mechanics
+H73,percent per decakelvin,%/daK,mechanics
+H74,watt per metre,W/m,space & time
+H75,decapascal,daPa,space & time
+H76,gram per millimetre,g/mm,space & time
+H77,module width,MW,mechanics
+H79,French gauge,Fg,periodic & related phenomena
+H80,rack unit,U or RU,mechanics
+H81,millimetre per minute,mm/min,space & time
+H82,big point,bp,mechanics
+H83,litre per kilogram,l/kg,space & time
+H84,gram millimetre,g·mm,space & time
+H85,reciprocal week,1/wk,space & time
+H87,piece,,mechanics
+H88,megaohm kilometre,MΩ·km,space & time
+H89,percent per ohm,%/Ω,mechanics
+H90,percent per degree,%/°,mechanics
+H91,percent per ten thousand,%/10000,mechanics
+H92,percent per one hundred thousand,%/100000,mechanics
+H93,percent per hundred,%/100,mechanics
+H94,percent per thousand,%/1000,mechanics
+H95,percent per volt,%/V,mechanics
+H96,percent per bar,%/bar,mechanics
+H98,percent per inch,%/in,mechanics
+H99,percent per metre,%/m,mechanics
+HA,hank,,mechanics
+HBA,hectobar,hbar,space & time
+HBX,hundred boxes,,mechanics
+HC,hundred count,,mechanics
+HDW,"hundred kilogram, dry weight",,mechanics
+HEA,head,,mechanics
+HGM,hectogram,hg,space & time
+HH,hundred cubic foot,,mechanics
+HIU,hundred international unit,,mechanics
+HKM,"hundred kilogram, net mass",,mechanics
+HLT,hectolitre,hl,space & time
+HM,mile per hour (statute mile),mile/h,periodic & related phenomena
+HMQ,million cubic metre,Mm³,mechanics
+HMT,hectometre,hm,space & time
+HPA,hectolitre of pure alcohol,,mechanics
+HTZ,hertz,Hz,space & time
+HUR,hour,h,space & time
+IA,inch pound (pound inch),in·lb,periodic & related phenomena
+IE,person,,mechanics
+INH,inch,in,periodic & related phenomena
+INK,square inch,in²,periodic & related phenomena
+INQ,cubic inch,in³,periodic & related phenomena
+ISD,international sugar degree,,mechanics
+IU,inch per second,in/s,periodic & related phenomena
+IUG,international unit per gram,,mechanics
+IV,inch per second squared,in/s²,periodic & related phenomena
+J10,percent per millimetre,%/mm,mechanics
+J12,per mille per psi,‰/psi,mechanics
+J13,degree API,°API,mechanics
+J14,degree Baume (origin scale),°Bé,mechanics
+J15,degree Baume (US heavy),°Bé (US heavy),mechanics
+J16,degree Baume (US light),°Bé (US light),mechanics
+J17,degree Balling,°Balling,mechanics
+J18,degree Brix,°Bx,mechanics
+J19,degree Fahrenheit hour square foot per British thermal unit (thermochemical),°F·h·ft²/Btuth,periodic & related phenomena
+J2,joule per kilogram,J/kg,space & time
+J20,degree Fahrenheit per kelvin,°F/K,periodic & related phenomena
+J21,degree Fahrenheit per bar,°F/bar,periodic & related phenomena
+J22,degree Fahrenheit hour square foot per British thermal unit (international table),°F·h·ft²/BtuIT,periodic & related phenomena
+J23,degree Fahrenheit per hour,°F/h,periodic & related phenomena
+J24,degree Fahrenheit per minute,°F/min,periodic & related phenomena
+J25,degree Fahrenheit per second,°F/s,periodic & related phenomena
+J26,reciprocal degree Fahrenheit,1/°F,periodic & related phenomena
+J27,degree Oechsle,°Oechsle,mechanics
+J28,degree Rankine per hour,°R/h,periodic & related phenomena
+J29,degree Rankine per minute,°R/min,periodic & related phenomena
+J30,degree Rankine per second,°R/s,periodic & related phenomena
+J31,degree Twaddell,°Tw,mechanics
+J32,micropoise,µP,periodic & related phenomena
+J33,microgram per kilogram,µg/kg,space & time
+J34,microgram per cubic metre kelvin,(µg/m³)/K,periodic & related phenomena
+J35,microgram per cubic metre bar,(µg/m³)/bar,periodic & related phenomena
+J36,microlitre per litre,µl/l,space & time
+J38,baud,Bd,mechanics
+J39,British thermal unit (mean),Btu,periodic & related phenomena
+J40,British thermal unit (international table) foot per hour square foot degree Fahrenheit,BtuIT·ft/(h·ft²·°F),periodic & related phenomena
+J41,British thermal unit (international table) inch per hour square foot degree Fahrenheit,BtuIT·in/(h·ft²·°F),periodic & related phenomena
+J42,British thermal unit (international table) inch per second square foot degree Fahrenheit,BtuIT·in/(s·ft²·°F),periodic & related phenomena
+J43,British thermal unit (international table) per pound degree Fahrenheit,BtuIT/(lb·°F),periodic & related phenomena
+J44,British thermal unit (international table) per minute,BtuIT/min,periodic & related phenomena
+J45,British thermal unit (international table) per second,BtuIT/s,periodic & related phenomena
+J46,British thermal unit (thermochemical) foot per hour square foot degree Fahrenheit,Btuth·ft/(h·ft²·°F),periodic & related phenomena
+J47,British thermal unit (thermochemical) per hour,Btuth/h,periodic & related phenomena
+J48,British thermal unit (thermochemical) inch per hour square foot degree Fahrenheit,Btuth·in/(h·ft²·°F),periodic & related phenomena
+J49,British thermal unit (thermochemical) inch per second square foot degree Fahrenheit,Btuth·in/(s·ft²·°F),periodic & related phenomena
+J50,British thermal unit (thermochemical) per pound degree Fahrenheit,Btuth/(lb·°F),periodic & related phenomena
+J51,British thermal unit (thermochemical) per minute,Btuth/min,periodic & related phenomena
+J52,British thermal unit (thermochemical) per second,Btuth/s,periodic & related phenomena
+J53,coulomb square metre per kilogram,C·m²/kg,periodic & related phenomena
+J54,megabaud,MBd,mechanics
+J55,watt second,W·s,space & time
+J56,bar per bar,bar/bar,periodic & related phenomena
+J57,barrel (UK petroleum),bbl (UK liq.),periodic & related phenomena
+J58,barrel (UK petroleum) per minute,bbl (UK liq.)/min,periodic & related phenomena
+J59,barrel (UK petroleum) per day,bbl (UK liq.)/d,periodic & related phenomena
+J60,barrel (UK petroleum) per hour,bbl (UK liq.)/h,periodic & related phenomena
+J61,barrel (UK petroleum) per second,bbl (UK liq.)/s,periodic & related phenomena
+J62,barrel (US petroleum) per hour,bbl (US)/h,periodic & related phenomena
+J63,barrel (US petroleum) per second,bbl (US)/s,periodic & related phenomena
+J64,bushel (UK) per day,bu (UK)/d,periodic & related phenomena
+J65,bushel (UK) per hour,bu (UK)/h,periodic & related phenomena
+J66,bushel (UK) per minute,bu (UK)/min,periodic & related phenomena
+J67,bushel (UK) per second,bu (UK)/s,periodic & related phenomena
+J68,bushel (US dry) per day,bu (US dry)/d,periodic & related phenomena
+J69,bushel (US dry) per hour,bu (US dry)/h,periodic & related phenomena
+J70,bushel (US dry) per minute,bu (US dry)/min,periodic & related phenomena
+J71,bushel (US dry) per second,bu (US dry)/s,periodic & related phenomena
+J72,centinewton metre,cN·m,space & time
+J73,centipoise per kelvin,cP/K,periodic & related phenomena
+J74,centipoise per bar,cP/bar,periodic & related phenomena
+J75,calorie (mean),cal,periodic & related phenomena
+J76,calorie (international table) per gram degree Celsius,calIT/(g·°C),periodic & related phenomena
+J78,calorie (thermochemical) per centimetre second degree Celsius,calth/(cm·s·°C),periodic & related phenomena
+J79,calorie (thermochemical) per gram degree Celsius,calth/(g·°C),periodic & related phenomena
+J81,calorie (thermochemical) per minute,calth/min,periodic & related phenomena
+J82,calorie (thermochemical) per second,calth/s,periodic & related phenomena
+J83,clo,clo,periodic & related phenomena
+J84,centimetre per second kelvin,(cm/s)/K,periodic & related phenomena
+J85,centimetre per second bar,(cm/s)/bar,periodic & related phenomena
+J87,cubic centimetre per cubic metre,cm³/m³,space & time
+J90,cubic decimetre per day,dm³/d,space & time
+J91,cubic decimetre per cubic metre,dm³/m³,space & time
+J92,cubic decimetre per minute,dm³/min,space & time
+J93,cubic decimetre per second,dm³/s,space & time
+J95,ounce (UK fluid) per day,fl oz (UK)/d,periodic & related phenomena
+J96,ounce (UK fluid) per hour,fl oz (UK)/h,periodic & related phenomena
+J97,ounce (UK fluid) per minute,fl oz (UK)/min,periodic & related phenomena
+J98,ounce (UK fluid) per second,fl oz (UK)/s,periodic & related phenomena
+J99,ounce (US fluid) per day,fl oz (US)/d,periodic & related phenomena
+JE,joule per kelvin,J/K,space & time
+JK,megajoule per kilogram,MJ/kg,space & time
+JM,megajoule per cubic metre,MJ/m³,space & time
+JNT,pipeline joint,,mechanics
+JOU,joule,J,space & time
+JPS,hundred metre,,mechanics
+JWL,number of jewels,,mechanics
+K1,kilowatt demand,,mechanics
+K10,ounce (US fluid) per hour,fl oz (US)/h,periodic & related phenomena
+K11,ounce (US fluid) per minute,fl oz (US)/min,periodic & related phenomena
+K12,ounce (US fluid) per second,fl oz (US)/s,periodic & related phenomena
+K13,foot per degree Fahrenheit,ft/°F,periodic & related phenomena
+K14,foot per hour,ft/h,periodic & related phenomena
+K15,foot pound-force per hour,ft·lbf/h,periodic & related phenomena
+K16,foot pound-force per minute,ft·lbf/min,periodic & related phenomena
+K17,foot per psi,ft/psi,periodic & related phenomena
+K18,foot per second degree Fahrenheit,(ft/s)/°F,periodic & related phenomena
+K19,foot per second psi,(ft/s)/psi,periodic & related phenomena
+K2,kilovolt ampere reactive demand,,mechanics
+K20,reciprocal cubic foot,1/ft³,periodic & related phenomena
+K21,cubic foot per degree Fahrenheit,ft³/°F,periodic & related phenomena
+K22,cubic foot per day,ft³/d,periodic & related phenomena
+K23,cubic foot per psi,ft³/psi,periodic & related phenomena
+K26,gallon (UK) per day,gal (UK)/d,periodic & related phenomena
+K27,gallon (UK) per hour,gal (UK)/h,periodic & related phenomena
+K28,gallon (UK) per second,gal (UK)/s,periodic & related phenomena
+K3,kilovolt ampere reactive hour,kvar·h,mechanics
+K30,gallon (US liquid) per second,gal (US liq.)/s,periodic & related phenomena
+K31,gram-force per square centimetre,gf/cm²,periodic & related phenomena
+K32,gill (UK) per day,gi (UK)/d,periodic & related phenomena
+K33,gill (UK) per hour,gi (UK)/h,periodic & related phenomena
+K34,gill (UK) per minute,gi (UK)/min,periodic & related phenomena
+K35,gill (UK) per second,gi (UK)/s,periodic & related phenomena
+K36,gill (US) per day,gi (US)/d,periodic & related phenomena
+K37,gill (US) per hour,gi (US)/h,periodic & related phenomena
+K38,gill (US) per minute,gi (US)/min,periodic & related phenomena
+K39,gill (US) per second,gi (US)/s,periodic & related phenomena
+K40,standard acceleration of free fall,gn,periodic & related phenomena
+K41,grain per gallon (US),gr/gal (US),periodic & related phenomena
+K42,horsepower (boiler),boiler hp,periodic & related phenomena
+K43,horsepower (electric),electric hp,periodic & related phenomena
+K45,inch per degree Fahrenheit,in/°F,periodic & related phenomena
+K46,inch per psi,in/psi,periodic & related phenomena
+K47,inch per second degree Fahrenheit,(in/s)/°F,periodic & related phenomena
+K48,inch per second psi,(in/s)/psi,periodic & related phenomena
+K49,reciprocal cubic inch,1/in³,periodic & related phenomena
+K50,kilobaud,kBd,mechanics
+K51,kilocalorie (mean),kcal,periodic & related phenomena
+K52,kilocalorie (international table) per hour metre degree Celsius,kcal/(m·h·°C),periodic & related phenomena
+K53,kilocalorie (thermochemical),kcalth,periodic & related phenomena
+K54,kilocalorie (thermochemical) per minute,kcalth/min,periodic & related phenomena
+K55,kilocalorie (thermochemical) per second,kcalth/s,periodic & related phenomena
+K58,kilomole per hour,kmol/h,space & time
+K59,kilomole per cubic metre kelvin,(kmol/m³)/K,periodic & related phenomena
+K6,kilolitre,kl,space & time
+K60,kilomole per cubic metre bar,(kmol/m³)/bar,periodic & related phenomena
+K61,kilomole per minute,kmol/min,space & time
+K62,litre per litre,l/l,space & time
+K63,reciprocal litre,1/l,periodic & related phenomena
+K64,pound (avoirdupois) per degree Fahrenheit,lb/°F,periodic & related phenomena
+K65,pound (avoirdupois) square foot,lb·ft²,periodic & related phenomena
+K66,pound (avoirdupois) per day,lb/d,periodic & related phenomena
+K67,pound per foot hour,lb/(ft·h),periodic & related phenomena
+K68,pound per foot second,lb/(ft·s),periodic & related phenomena
+K69,pound (avoirdupois) per cubic foot degree Fahrenheit,(lb/ft³)/°F,periodic & related phenomena
+K70,pound (avoirdupois) per cubic foot psi,(lb/ft³)/psi,periodic & related phenomena
+K71,pound (avoirdupois) per gallon (UK),lb/gal (UK),periodic & related phenomena
+K73,pound (avoirdupois) per hour degree Fahrenheit,(lb/h)/°F,periodic & related phenomena
+K74,pound (avoirdupois) per hour psi,(lb/h)/psi,periodic & related phenomena
+K75,pound (avoirdupois) per cubic inch degree Fahrenheit,(lb/in³)/°F,periodic & related phenomena
+K76,pound (avoirdupois) per cubic inch psi,(lb/in³)/psi,periodic & related phenomena
+K77,pound (avoirdupois) per psi,lb/psi,periodic & related phenomena
+K78,pound (avoirdupois) per minute,lb/min,periodic & related phenomena
+K79,pound (avoirdupois) per minute degree Fahrenheit,lb/(min·°F),periodic & related phenomena
+K80,pound (avoirdupois) per minute psi,(lb/min)/psi,periodic & related phenomena
+K81,pound (avoirdupois) per second,lb/s,periodic & related phenomena
+K82,pound (avoirdupois) per second degree Fahrenheit,(lb/s)/°F,periodic & related phenomena
+K83,pound (avoirdupois) per second psi,(lb/s)/psi,periodic & related phenomena
+K84,pound per cubic yard,lb/yd³,periodic & related phenomena
+K85,pound-force per square foot,lbf/ft²,periodic & related phenomena
+K86,pound-force per square inch degree Fahrenheit,psi/°F,periodic & related phenomena
+K87,psi cubic inch per second,psi·in³/s,periodic & related phenomena
+K88,psi litre per second,psi·l/s,periodic & related phenomena
+K89,psi cubic metre per second,psi·m³/s,periodic & related phenomena
+K90,psi cubic yard per second,psi·yd³/s,periodic & related phenomena
+K91,pound-force second per square foot,lbf·s/ft²,periodic & related phenomena
+K92,pound-force second per square inch,lbf·s/in²,periodic & related phenomena
+K93,reciprocal psi,1/psi,periodic & related phenomena
+K94,quart (UK liquid) per day,qt (UK liq.)/d,periodic & related phenomena
+K95,quart (UK liquid) per hour,qt (UK liq.)/h,periodic & related phenomena
+K96,quart (UK liquid) per minute,qt (UK liq.)/min,periodic & related phenomena
+K97,quart (UK liquid) per second,qt (UK liq.)/s,periodic & related phenomena
+K98,quart (US liquid) per day,qt (US liq.)/d,periodic & related phenomena
+K99,quart (US liquid) per hour,qt (US liq.)/h,periodic & related phenomena
+KA,cake,,mechanics
+KAT,katal,kat,space & time
+KB,kilocharacter,,mechanics
+KBA,kilobar,kbar,space & time
+KCC,kilogram of choline chloride,kg C₅ H₁₄ClNO,mechanics
+KDW,kilogram drained net weight,kg/net eda,mechanics
+KEL,kelvin,K,space & time
+KGM,kilogram,kg,space & time
+KGS,kilogram per second,kg/s,space & time
+KHY,kilogram of hydrogen peroxide,kg H₂O₂,mechanics
+KHZ,kilohertz,kHz,space & time
+KI,kilogram per millimetre width,,mechanics
+KIC,"kilogram, including container",,mechanics
+KIP,"kilogram, including inner packaging",,mechanics
+KJ,kilosegment,,mechanics
+KJO,kilojoule,kJ,space & time
+KL,kilogram per metre,kg/m,space & time
+KLK,lactic dry material percentage,,mechanics
+KLX,kilolux,klx,space & time
+KMA,kilogram of methylamine,kg met.am.,mechanics
+KMH,kilometre per hour,km/h,space & time
+KMK,square kilometre,km²,space & time
+KMQ,kilogram per cubic metre,kg/m³,space & time
+KMT,kilometre,km,space & time
+KNI,kilogram of nitrogen,kg N,mechanics
+KNM,kilonewton per square metre,kN/m2,space & time
+KNS,kilogram named substance,,mechanics
+KNT,knot,kn,space & time
+KO,milliequivalence caustic potash per gram of product,,mechanics
+KPA,kilopascal,kPa,space & time
+KPH,kilogram of potassium hydroxide (caustic potash),kg KOH,mechanics
+KPO,kilogram of potassium oxide,kg K₂O,mechanics
+KPP,kilogram of phosphorus pentoxide (phosphoric anhydride),,mechanics
+KR,kiloroentgen,kR,periodic & related phenomena
+KSD,kilogram of substance 90 % dry,kg 90 % sdt,mechanics
+KSH,kilogram of sodium hydroxide (caustic soda),kg NaOH,mechanics
+KT,kit,,mechanics
+KTN,kilotonne,kt,space & time
+KUR,kilogram of uranium,kg U,mechanics
+KVA,kilovolt - ampere,kV·A,space & time
+KVR,kilovar,kvar,space & time
+KVT,kilovolt,kV,space & time
+KW,kilogram per millimetre,kg/mm,space & time
+KWH,kilowatt hour,kW·h,space & time
+KWY,kilowatt year,kW/year,periodic & related phenomena
+KWN,Kilowatt hour per normalized cubic metre,,periodic & related phenomena
+KWO,kilogram of tungsten trioxide,kg WO₃,mechanics
+KWS,Kilowatt hour per standard cubic metre,,periodic & related phenomena
+KWT,kilowatt,kW,space & time
+KX,millilitre per kilogram,ml/kg,space & time
+L10,quart (US liquid) per minute,qt (US liq.)/min,periodic & related phenomena
+L11,quart (US liquid) per second,qt (US liq.)/s,periodic & related phenomena
+L12,metre per second kelvin,(m/s)/K,periodic & related phenomena
+L13,metre per second bar,(m/s)/bar,periodic & related phenomena
+L14,square metre hour degree Celsius per kilocalorie (international table),m²·h·°C/kcal,periodic & related phenomena
+L15,millipascal second per kelvin,mPa·s/K,periodic & related phenomena
+L16,millipascal second per bar,mPa·s/bar,periodic & related phenomena
+L17,milligram per cubic metre kelvin,(mg/m³)/K,periodic & related phenomena
+L18,milligram per cubic metre bar,(mg/m³)/bar,periodic & related phenomena
+L19,millilitre per litre,ml/l,space & time
+L2,litre per minute,l/min,space & time
+L20,reciprocal cubic millimetre,1/mm³,space & time
+L21,cubic millimetre per cubic metre,mm³/m³,space & time
+L23,mole per hour,mol/h,space & time
+L24,mole per kilogram kelvin,(mol/kg)/K,periodic & related phenomena
+L25,mole per kilogram bar,(mol/kg)/bar,periodic & related phenomena
+L26,mole per litre kelvin,(mol/l)/K,periodic & related phenomena
+L27,mole per litre bar,(mol/l)/bar,periodic & related phenomena
+L28,mole per cubic metre kelvin,(mol/m³)/K,periodic & related phenomena
+L29,mole per cubic metre bar,(mol/m³)/bar,periodic & related phenomena
+L30,mole per minute,mol/min,space & time
+L31,milliroentgen aequivalent men,mrem,periodic & related phenomena
+L32,nanogram per kilogram,ng/kg,space & time
+L33,ounce (avoirdupois) per day,oz/d,periodic & related phenomena
+L34,ounce (avoirdupois) per hour,oz/h,periodic & related phenomena
+L35,ounce (avoirdupois) per minute,oz/min,periodic & related phenomena
+L36,ounce (avoirdupois) per second,oz/s,periodic & related phenomena
+L37,ounce (avoirdupois) per gallon (UK),oz/gal (UK),periodic & related phenomena
+L38,ounce (avoirdupois) per gallon (US),oz/gal (US),periodic & related phenomena
+L39,ounce (avoirdupois) per cubic inch,oz/in³,periodic & related phenomena
+L40,ounce (avoirdupois)-force,ozf,periodic & related phenomena
+L41,ounce (avoirdupois)-force inch,ozf·in,periodic & related phenomena
+L42,picosiemens per metre,pS/m,periodic & related phenomena
+L43,peck (UK),pk (UK),periodic & related phenomena
+L44,peck (UK) per day,pk (UK)/d,periodic & related phenomena
+L45,peck (UK) per hour,pk (UK)/h,periodic & related phenomena
+L46,peck (UK) per minute,pk (UK)/min,periodic & related phenomena
+L47,peck (UK) per second,pk (UK)/s,periodic & related phenomena
+L48,peck (US dry) per day,pk (US dry)/d,periodic & related phenomena
+L49,peck (US dry) per hour,pk (US dry)/h,periodic & related phenomena
+L50,peck (US dry) per minute,pk (US dry)/min,periodic & related phenomena
+L51,peck (US dry) per second,pk (US dry)/s,periodic & related phenomena
+L52,psi per psi,psi/psi,periodic & related phenomena
+L53,pint (UK) per day,pt (UK)/d,periodic & related phenomena
+L54,pint (UK) per hour,pt (UK)/h,periodic & related phenomena
+L55,pint (UK) per minute,pt (UK)/min,periodic & related phenomena
+L56,pint (UK) per second,pt (UK)/s,periodic & related phenomena
+L57,pint (US liquid) per day,pt (US liq.)/d,periodic & related phenomena
+L58,pint (US liquid) per hour,pt (US liq.)/h,periodic & related phenomena
+L59,pint (US liquid) per minute,pt (US liq.)/min,periodic & related phenomena
+L60,pint (US liquid) per second,pt (US liq.)/s,periodic & related phenomena
+L63,slug per day,slug/d,periodic & related phenomena
+L64,slug per foot second,slug/(ft·s),periodic & related phenomena
+L65,slug per cubic foot,slug/ft³,periodic & related phenomena
+L66,slug per hour,slug/h,periodic & related phenomena
+L67,slug per minute,slug/min,periodic & related phenomena
+L68,slug per second,slug/s,periodic & related phenomena
+L69,tonne per kelvin,t/K,periodic & related phenomena
+L70,tonne per bar,t/bar,periodic & related phenomena
+L71,tonne per day,t/d,periodic & related phenomena
+L72,tonne per day kelvin,(t/d)/K,periodic & related phenomena
+L73,tonne per day bar,(t/d)/bar,periodic & related phenomena
+L74,tonne per hour kelvin,(t/h)/K,periodic & related phenomena
+L75,tonne per hour bar,(t/h)/bar,periodic & related phenomena
+L76,tonne per cubic metre kelvin,(t/m³)/K,periodic & related phenomena
+L77,tonne per cubic metre bar,(t/m³)/bar,periodic & related phenomena
+L78,tonne per minute,t/min,periodic & related phenomena
+L79,tonne per minute kelvin,(t/min)/K,periodic & related phenomena
+L80,tonne per minute bar,(t/min)/bar,periodic & related phenomena
+L81,tonne per second,t/s,periodic & related phenomena
+L82,tonne per second kelvin,(t/s)/K,periodic & related phenomena
+L83,tonne per second bar,(t/s)/bar,periodic & related phenomena
+L84,ton (UK shipping),British shipping ton,periodic & related phenomena
+L85,ton long per day,ton (UK)/d,periodic & related phenomena
+L86,ton (US shipping),(US) shipping ton,periodic & related phenomena
+L87,ton short per degree Fahrenheit,ton (US)/°F,periodic & related phenomena
+L88,ton short per day,ton (US)/d,periodic & related phenomena
+L89,ton short per hour degree Fahrenheit,ton (US)/(h·°F),periodic & related phenomena
+L90,ton short per hour psi,(ton (US)/h)/psi,periodic & related phenomena
+L91,ton short per psi,ton (US)/psi,periodic & related phenomena
+L92,ton (UK long) per cubic yard,ton.l/yd³ (UK),periodic & related phenomena
+L93,ton (US short) per cubic yard,ton.s/yd³ (US),periodic & related phenomena
+L94,ton-force (US short),ton.sh-force,periodic & related phenomena
+L95,common year,y (365 days),periodic & related phenomena
+L96,sidereal year,y (sidereal),periodic & related phenomena
+L98,yard per degree Fahrenheit,yd/°F,periodic & related phenomena
+L99,yard per psi,yd/psi,periodic & related phenomena
+LA,pound per cubic inch,lb/in³,periodic & related phenomena
+LAC,lactose excess percentage,,mechanics
+LBR,pound,lb,periodic & related phenomena
+LBT,troy pound (US),,mechanics
+LD,litre per day,l/d,space & time
+LEF,leaf,,mechanics
+LF,linear foot,,mechanics
+LH,labour hour,,mechanics
+LK,link,,mechanics
+LM,linear metre,,mechanics
+LN,length,,mechanics
+LO,lot [unit of procurement],,mechanics
+LP,liquid pound,,mechanics
+LPA,litre of pure alcohol,,mechanics
+LR,layer,,mechanics
+LS,lump sum,,mechanics
+LTN,ton (UK) or long ton (US),ton (UK),periodic & related phenomena
+LTR,litre,l,space & time
+LUB,"metric ton, lubricating oil",,mechanics
+LUM,lumen,lm,space & time
+LUX,lux,lx,space & time
+LY,linear yard,,mechanics
+M1,milligram per litre,mg/l,space & time
+M10,reciprocal cubic yard,1/yd³,periodic & related phenomena
+M11,cubic yard per degree Fahrenheit,yd³/°F,periodic & related phenomena
+M12,cubic yard per day,yd³/d,periodic & related phenomena
+M13,cubic yard per hour,yd³/h,periodic & related phenomena
+M14,cubic yard per psi,yd³/psi,periodic & related phenomena
+M15,cubic yard per minute,yd³/min,periodic & related phenomena
+M16,cubic yard per second,yd³/s,periodic & related phenomena
+M17,kilohertz metre,kHz·m,periodic & related phenomena
+M18,gigahertz metre,GHz·m,periodic & related phenomena
+M19,Beaufort,Bft,mechanics
+M20,reciprocal megakelvin or megakelvin to the power minus one,1/MK,periodic & related phenomena
+M21,reciprocal kilovolt - ampere reciprocal hour,1/kVAh,periodic & related phenomena
+M22,millilitre per square centimetre minute,(ml/min)/cm²,periodic & related phenomena
+M23,newton per centimetre,N/cm,space & time
+M24,ohm kilometre,Ω·km,space & time
+M25,percent per degree Celsius,%/°C,mechanics
+M26,gigaohm per metre,GΩ/m,periodic & related phenomena
+M27,megahertz metre,MHz·m,periodic & related phenomena
+M29,kilogram per kilogram,kg/kg,space & time
+M30,reciprocal volt - ampere reciprocal second,1/(V·A·s),space & time
+M31,kilogram per kilometre,kg/km,space & time
+M32,pascal second per litre,Pa·s/l,periodic & related phenomena
+M33,millimole per litre,mmol/l,space & time
+M34,newton metre per square metre,N·m/m²,space & time
+M35,millivolt - ampere,mV·A,space & time
+M36,30-day month,mo (30 days),mechanics
+M37,actual/360,y (360 days),mechanics
+M38,kilometre per second squared,km/s²,space & time
+M39,centimetre per second squared,cm/s²,space & time
+M4,monetary value,,mechanics
+M40,yard per second squared,yd/s²,periodic & related phenomena
+M41,millimetre per second squared,mm/s²,space & time
+M42,mile (statute mile) per second squared,mi/s²,periodic & related phenomena
+M43,mil,mil,periodic & related phenomena
+M44,revolution,rev,periodic & related phenomena
+M45,degree [unit of angle] per second squared,°/s²,space & time
+M46,revolution per minute,r/min,periodic & related phenomena
+M47,circular mil,cmil,periodic & related phenomena
+M48,square mile (based on U.S. survey foot),mi² (US survey),periodic & related phenomena
+M49,chain (based on U.S. survey foot),ch (US survey),periodic & related phenomena
+M5,microcurie,µCi,periodic & related phenomena
+M50,furlong,fur,periodic & related phenomena
+M51,foot (U.S. survey),ft (US survey),periodic & related phenomena
+M52,mile (based on U.S. survey foot),mi (US survey),periodic & related phenomena
+M53,metre per pascal,m/Pa,space & time
+M55,metre per radiant,m/rad,space & time
+M56,shake,shake,periodic & related phenomena
+M57,mile per minute,mi/min,periodic & related phenomena
+M58,mile per second,mi/s,periodic & related phenomena
+M59,metre per second pascal,(m/s)/Pa,space & time
+M60,metre per hour,m/h,periodic & related phenomena
+M61,inch per year,in/y,periodic & related phenomena
+M62,kilometre per second,km/s,periodic & related phenomena
+M63,inch per minute,in/min,periodic & related phenomena
+M64,yard per second,yd/s,periodic & related phenomena
+M65,yard per minute,yd/min,periodic & related phenomena
+M66,yard per hour,yd/h,periodic & related phenomena
+M67,acre-foot (based on U.S. survey foot),acre-ft (US survey),periodic & related phenomena
+M68,cord (128 ft3),cord,periodic & related phenomena
+M69,cubic mile (UK statute),mi³,periodic & related phenomena
+M7,micro-inch,µin,periodic & related phenomena
+M70,"ton, register",RT,periodic & related phenomena
+M71,cubic metre per pascal,m³/Pa,space & time
+M72,bel,B,space & time
+M73,kilogram per cubic metre pascal,(kg/m³)/Pa,space & time
+M74,kilogram per pascal,kg/Pa,periodic & related phenomena
+M75,kilopound-force,kip,periodic & related phenomena
+M76,poundal,pdl,periodic & related phenomena
+M77,kilogram metre per second squared,kg·m/s²,periodic & related phenomena
+M78,pond,p,periodic & related phenomena
+M79,square foot per hour,ft²/h,periodic & related phenomena
+M80,stokes per pascal,St/Pa,periodic & related phenomena
+M81,square centimetre per second,cm²/s,periodic & related phenomena
+M82,square metre per second pascal,(m²/s)/Pa,space & time
+M83,denier,den,periodic & related phenomena
+M84,pound per yard,lb/yd,periodic & related phenomena
+M85,"ton, assay",,periodic & related phenomena
+M86,pfund,pfd,periodic & related phenomena
+M87,kilogram per second pascal,(kg/s)/Pa,space & time
+M88,tonne per month,t/mo,periodic & related phenomena
+M89,tonne per year,t/y,periodic & related phenomena
+M9,million Btu per 1000 cubic foot,MBTU/kft³,mechanics
+M90,kilopound per hour,klb/h,periodic & related phenomena
+M91,pound per pound,lb/lb,periodic & related phenomena
+M92,pound-force foot,lbf·ft,periodic & related phenomena
+M93,newton metre per radian,N·m/rad,space & time
+M94,kilogram metre,kg·m,space & time
+M95,poundal foot,pdl·ft,periodic & related phenomena
+M96,poundal inch,pdl·in,periodic & related phenomena
+M97,dyne metre,dyn·m,periodic & related phenomena
+M98,kilogram centimetre per second,kg·(cm/s),space & time
+M99,gram centimetre per second,g·(cm/s),space & time
+MAH,megavolt ampere reactive hour,Mvar·h,mechanics
+MAL,megalitre,Ml,space & time
+MAM,megametre,Mm,periodic & related phenomena
+MAR,megavar,Mvar,space & time
+MAW,megawatt,MW,space & time
+MBE,thousand standard brick equivalent,,mechanics
+MBF,thousand board foot,,mechanics
+MBR,millibar,mbar,space & time
+MC,microgram,µg,space & time
+MCU,millicurie,mCi,periodic & related phenomena
+MD,air dry metric ton,,mechanics
+MGM,milligram,mg,space & time
+MHZ,megahertz,MHz,space & time
+MIK,square mile (statute mile),mi²,periodic & related phenomena
+MIL,thousand,,mechanics
+MIN,minute [unit of time],min,space & time
+MIO,million,,mechanics
+MIU,million international unit,,mechanics
+MLD,milliard,,mechanics
+MLT,millilitre,ml,space & time
+MMK,square millimetre,mm²,space & time
+MMQ,cubic millimetre,mm³,space & time
+MMT,millimetre,mm,space & time
+MND,"kilogram, dry weight",,mechanics
+MON,month,mo,periodic & related phenomena
+MPA,megapascal,MPa,space & time
+MQH,cubic metre per hour,m³/h,space & time
+MQS,cubic metre per second,m³/s,space & time
+MSK,metre per second squared,m/s²,space & time
+MTK,square metre,m²,space & time
+MTQ,cubic metre,m³,space & time
+MTR,metre,m,space & time
+MTS,metre per second,m/s,space & time
+MVA,megavolt - ampere,MV·A,space & time
+MWH,megawatt hour (1000 kW.h),MW·h,space & time
+N1,pen calorie,,mechanics
+N10,pound foot per second,lb·(ft/s),periodic & related phenomena
+N11,pound inch per second,lb·(in/s),periodic & related phenomena
+N12,Pferdestaerke,PS,periodic & related phenomena
+N13,centimetre of mercury (0 ºC),cmHg (0 ºC),periodic & related phenomena
+N14,centimetre of water (4 ºC),cmH₂O (4 °C),periodic & related phenomena
+N15,foot of water (39.2 ºF),"ftH₂O (39,2 ºF)",periodic & related phenomena
+N16,inch of mercury (32 ºF),inHG (32 ºF),periodic & related phenomena
+N17,inch of mercury (60 ºF),inHg (60 ºF),periodic & related phenomena
+N18,inch of water (39.2 ºF),"inH₂O (39,2 ºF)",periodic & related phenomena
+N19,inch of water (60 ºF),inH₂O (60 ºF),periodic & related phenomena
+N20,kip per square inch,ksi,periodic & related phenomena
+N21,poundal per square foot,pdl/ft²,periodic & related phenomena
+N22,ounce (avoirdupois) per square inch,oz/in²,periodic & related phenomena
+N23,conventional metre of water,mH₂O,periodic & related phenomena
+N24,gram per square millimetre,g/mm²,periodic & related phenomena
+N25,pound per square yard,lb/yd²,periodic & related phenomena
+N26,poundal per square inch,pdl/in²,periodic & related phenomena
+N27,foot to the fourth power,ft⁴,periodic & related phenomena
+N28,cubic decimetre per kilogram,dm³/kg,space & time
+N29,cubic foot per pound,ft³/lb,periodic & related phenomena
+N3,print point,,mechanics
+N30,cubic inch per pound,in³/lb,periodic & related phenomena
+N31,kilonewton per metre,kN/m,space & time
+N32,poundal per inch,pdl/in,periodic & related phenomena
+N33,pound-force per yard,lbf/yd,periodic & related phenomena
+N34,poundal second per square foot,(pdl/ft²)·s,periodic & related phenomena
+N35,poise per pascal,P/Pa,periodic & related phenomena
+N36,newton second per square metre,(N/m²)·s,space & time
+N37,kilogram per metre second,kg/(m·s),space & time
+N38,kilogram per metre minute,kg/(m·min),space & time
+N39,kilogram per metre day,kg/(m·d),space & time
+N40,kilogram per metre hour,kg/(m·h),space & time
+N41,gram per centimetre second,g/(cm·s),space & time
+N42,poundal second per square inch,(pdl/in²)·s,periodic & related phenomena
+N43,pound per foot minute,lb/(ft·min),periodic & related phenomena
+N44,pound per foot day,lb/(ft·d),periodic & related phenomena
+N45,cubic metre per second pascal,(m³/s)/Pa,space & time
+N46,foot poundal,ft·pdl,periodic & related phenomena
+N47,inch poundal,in·pdl,periodic & related phenomena
+N48,watt per square centimetre,W/cm²,periodic & related phenomena
+N49,watt per square inch,W/in²,periodic & related phenomena
+N50,British thermal unit (international table) per square foot hour,BtuIT/(ft²·h),periodic & related phenomena
+N51,British thermal unit (thermochemical) per square foot hour,Btuth/(ft²·h),periodic & related phenomena
+N52,British thermal unit (thermochemical) per square foot minute,Btuth/(ft²·min),periodic & related phenomena
+N53,British thermal unit (international table) per square foot second,BtuIT/(ft²·s),periodic & related phenomena
+N54,British thermal unit (thermochemical) per square foot second,Btuth/(ft²·s),periodic & related phenomena
+N55,British thermal unit (international table) per square inch second,BtuIT/(in²·s),periodic & related phenomena
+N56,calorie (thermochemical) per square centimetre minute,calth/(cm²·min),periodic & related phenomena
+N57,calorie (thermochemical) per square centimetre second,calth/(cm²·s),periodic & related phenomena
+N58,British thermal unit (international table) per cubic foot,BtuIT/ft³,periodic & related phenomena
+N59,British thermal unit (thermochemical) per cubic foot,Btuth/ft³,periodic & related phenomena
+N60,British thermal unit (international table) per degree Fahrenheit,BtuIT/ºF,periodic & related phenomena
+N61,British thermal unit (thermochemical) per degree Fahrenheit,Btuth/ºF,periodic & related phenomena
+N62,British thermal unit (international table) per degree Rankine,BtuIT/ºR,periodic & related phenomena
+N63,British thermal unit (thermochemical) per degree Rankine,Btuth/ºR,periodic & related phenomena
+N64,British thermal unit (thermochemical) per pound degree Rankine,(Btuth/°R)/lb,periodic & related phenomena
+N65,kilocalorie (international table) per gram kelvin,(kcalIT/K)/g,periodic & related phenomena
+N66,British thermal unit (39 ºF),Btu (39 ºF),periodic & related phenomena
+N67,British thermal unit (59 ºF),Btu (59 ºF),periodic & related phenomena
+N68,British thermal unit (60 ºF),Btu (60 ºF),periodic & related phenomena
+N69,calorie (20 ºC),cal₂₀,periodic & related phenomena
+N70,quad (1015 BtuIT),quad,periodic & related phenomena
+N71,therm (EC),thm (EC),periodic & related phenomena
+N72,therm (U.S.),thm (US),periodic & related phenomena
+N73,British thermal unit (thermochemical) per pound,Btuth/lb,periodic & related phenomena
+N74,British thermal unit (international table) per hour square foot degree Fahrenheit,BtuIT/(h·ft²·ºF),periodic & related phenomena
+N75,British thermal unit (thermochemical) per hour square foot degree Fahrenheit,Btuth/(h·ft²·ºF),periodic & related phenomena
+N76,British thermal unit (international table) per second square foot degree Fahrenheit,BtuIT/(s·ft²·ºF),periodic & related phenomena
+N77,British thermal unit (thermochemical) per second square foot degree Fahrenheit,Btuth/(s·ft²·ºF),periodic & related phenomena
+N78,kilowatt per square metre kelvin,kW/(m²·K),space & time
+N79,kelvin per pascal,K/Pa,space & time
+N80,watt per metre degree Celsius,W/(m·°C),space & time
+N81,kilowatt per metre kelvin,kW/(m·K),space & time
+N82,kilowatt per metre degree Celsius,kW/(m·°C),space & time
+N83,metre per degree Celcius metre,m/(°C·m),periodic & related phenomena
+N84,degree Fahrenheit hour per British thermal unit (international table),ºF/(BtuIT/h),periodic & related phenomena
+N85,degree Fahrenheit hour per British thermal unit (thermochemical),ºF/(Btuth/h),periodic & related phenomena
+N86,degree Fahrenheit second per British thermal unit (international table),ºF/(BtuIT/s),periodic & related phenomena
+N87,degree Fahrenheit second per British thermal unit (thermochemical),ºF/(Btuth/s),periodic & related phenomena
+N88,degree Fahrenheit hour square foot per British thermal unit (international table) inch,ºF·h·ft²/(BtuIT·in),periodic & related phenomena
+N89,degree Fahrenheit hour square foot per British thermal unit (thermochemical) inch,ºF·h·ft²/(Btuth·in),periodic & related phenomena
+N90,kilofarad,kF,space & time
+N91,reciprocal joule,1/J,space & time
+N92,picosiemens,pS,space & time
+N93,ampere per pascal,A/Pa,space & time
+N94,franklin,Fr,periodic & related phenomena
+N95,ampere minute,A·min,space & time
+N96,biot,Bi,periodic & related phenomena
+N97,gilbert,Gi,periodic & related phenomena
+N98,volt per pascal,V/Pa,space & time
+N99,picovolt,pV,space & time
+NA,milligram per kilogram,mg/kg,space & time
+NAR,number of articles,,mechanics
+NCL,number of cells,,mechanics
+NEW,newton,N,space & time
+NF,message,,mechanics
+NIL,nil,(),mechanics
+NIU,number of international units,,mechanics
+NL,load,,mechanics
+NM3,Normalised cubic metre,,periodic & related phenomena
+NMI,nautical mile,n mile,space & time
+NMP,number of packs,,mechanics
+NPT,number of parts,,mechanics
+NT,net ton,,mechanics
+NU,newton metre,N·m,space & time
+NX,part per thousand,‰,mechanics
+OA,panel,,mechanics
+ODE,ozone depletion equivalent,,mechanics
+ODG,ODS Grams,,mechanics
+ODK,ODS Kilograms,,mechanics
+ODM,ODS Milligrams,,mechanics
+OHM,ohm,Ω,space & time
+ON,ounce per square yard,oz/yd²,periodic & related phenomena
+ONZ,ounce (avoirdupois),oz,periodic & related phenomena
+OPM,oscillations per minute,o/min,periodic & related phenomena
+OT,overtime hour,,mechanics
+OZA,fluid ounce (US),fl oz (US),periodic & related phenomena
+OZI,fluid ounce (UK),fl oz (UK),periodic & related phenomena
+P1,percent,% or pct,mechanics
+P10,coulomb per metre,C/m,space & time
+P11,kiloweber,kWb,space & time
+P12,gamma,γ,periodic & related phenomena
+P13,kilotesla,kT,space & time
+P14,joule per second,J/s,space & time
+P15,joule per minute,J/min,space & time
+P16,joule per hour,J/h,space & time
+P17,joule per day,J/d,space & time
+P18,kilojoule per second,kJ/s,space & time
+P19,kilojoule per minute,kJ/min,space & time
+P2,pound per foot,lb/ft,periodic & related phenomena
+P20,kilojoule per hour,kJ/h,space & time
+P21,kilojoule per day,kJ/d,space & time
+P22,nanoohm,nΩ,space & time
+P23,ohm circular-mil per foot,Ω·cmil/ft,periodic & related phenomena
+P24,kilohenry,kH,space & time
+P25,lumen per square foot,lm/ft²,periodic & related phenomena
+P26,phot,ph,periodic & related phenomena
+P27,footcandle,ftc,periodic & related phenomena
+P28,candela per square inch,cd/in²,periodic & related phenomena
+P29,footlambert,ftL,periodic & related phenomena
+P30,lambert,Lb,periodic & related phenomena
+P31,stilb,sb,periodic & related phenomena
+P32,candela per square foot,cd/ft²,periodic & related phenomena
+P33,kilocandela,kcd,space & time
+P34,millicandela,mcd,space & time
+P35,Hefner-Kerze,HK,periodic & related phenomena
+P36,international candle,IK,periodic & related phenomena
+P37,British thermal unit (international table) per square foot,BtuIT/ft²,periodic & related phenomena
+P38,British thermal unit (thermochemical) per square foot,Btuth/ft²,periodic & related phenomena
+P39,calorie (thermochemical) per square centimetre,calth/cm²,periodic & related phenomena
+P40,langley,Ly,periodic & related phenomena
+P41,decade (logarithmic),dec,periodic & related phenomena
+P42,pascal squared second,Pa²·s,space & time
+P43,bel per metre,B/m,space & time
+P44,pound mole,lbmol,periodic & related phenomena
+P45,pound mole per second,lbmol/s,periodic & related phenomena
+P46,pound mole per minute,lbmol/h,periodic & related phenomena
+P47,kilomole per kilogram,kmol/kg,space & time
+P48,pound mole per pound,lbmol/lb,periodic & related phenomena
+P49,newton square metre per ampere,N·m²/A,space & time
+P5,five pack,,mechanics
+P50,weber metre,Wb·m,space & time
+P51,mol per kilogram pascal,(mol/kg)/Pa,space & time
+P52,mol per cubic metre pascal,(mol/m³)/Pa,space & time
+P53,unit pole,unit pole,periodic & related phenomena
+P54,milligray per second,mGy/s,space & time
+P55,microgray per second,µGy/s,space & time
+P56,nanogray per second,nGy/s,space & time
+P57,gray per minute,Gy/min,space & time
+P58,milligray per minute,mGy/min,space & time
+P59,microgray per minute,µGy/min,space & time
+P60,nanogray per minute,nGy/min,space & time
+P61,gray per hour,Gy/h,space & time
+P62,milligray per hour,mGy/h,space & time
+P63,microgray per hour,µGy/h,space & time
+P64,nanogray per hour,nGy/h,space & time
+P65,sievert per second,Sv/s,periodic & related phenomena
+P66,millisievert per second,mSv/s,periodic & related phenomena
+P67,microsievert per second,µSv/s,periodic & related phenomena
+P68,nanosievert per second,nSv/s,periodic & related phenomena
+P69,rem per second,rem/s,periodic & related phenomena
+P70,sievert per hour,Sv/h,periodic & related phenomena
+P71,millisievert per hour,mSv/h,periodic & related phenomena
+P72,microsievert per hour,µSv/h,periodic & related phenomena
+P73,nanosievert per hour,nSv/h,periodic & related phenomena
+P74,sievert per minute,Sv/min,periodic & related phenomena
+P75,millisievert per minute,mSv/min,periodic & related phenomena
+P76,microsievert per minute,µSv/min,periodic & related phenomena
+P77,nanosievert per minute,nSv/min,periodic & related phenomena
+P78,reciprocal square inch,1/in²,periodic & related phenomena
+P79,pascal square metre per kilogram,Pa/(kg/m²),space & time
+P80,millipascal per metre,mPa/m,space & time
+P81,kilopascal per metre,kPa/m,space & time
+P82,hectopascal per metre,hPa/m,space & time
+P83,standard atmosphere per metre,Atm/m,periodic & related phenomena
+P84,technical atmosphere per metre,at/m,periodic & related phenomena
+P85,torr per metre,Torr/m,periodic & related phenomena
+P86,psi per inch,psi/in,periodic & related phenomena
+P87,cubic metre per second square metre,(m³/s)/m²,space & time
+P88,rhe,rhe,mechanics
+P89,pound-force foot per inch,lbf·ft/in,mechanics
+P90,pound-force inch per inch,lbf·in/in,mechanics
+P91,perm (0 ºC),perm (0 ºC),mechanics
+P92,perm (23 ºC),perm (23 ºC),mechanics
+P93,byte per second,byte/s,mechanics
+P94,kilobyte per second,kbyte/s,mechanics
+P95,megabyte per second,Mbyte/s,mechanics
+P96,reciprocal volt,1/V,mechanics
+P97,reciprocal radian,1/rad,mechanics
+P98,pascal to the power sum of stoichiometric numbers,PaΣνB,mechanics
+P99,mole per cubiv metre to the power sum of stoichiometric numbers,(mol/m³)∑νB,mechanics
+PAL,pascal,Pa,space & time
+PD,pad,,mechanics
+PFL,proof litre,,mechanics
+PGL,proof gallon,,mechanics
+PI,pitch,,mechanics
+PLA,degree Plato,°P,mechanics
+PO,pound per inch of length,lb/in,periodic & related phenomena
+PQ,page per inch,ppi,mechanics
+PR,pair,,mechanics
+PS,pound-force per square inch,lbf/in²,periodic & related phenomena
+PTD,dry pint (US),dry pt (US),periodic & related phenomena
+PTI,pint (UK),pt (UK),periodic & related phenomena
+PTL,liquid pint (US),liq pt (US),periodic & related phenomena
+PTN,portion,PTN,mechanics
+Q10,joule per tesla,J/T,mechanics
+Q11,erlang,E,mechanics
+Q12,octet,o,mechanics
+Q13,octet per second,o/s,mechanics
+Q14,shannon,Sh,mechanics
+Q15,hartley,Hart,mechanics
+Q16,natural unit of information,nat,mechanics
+Q17,shannon per second,Sh/s,mechanics
+Q18,hartley per second,Hart/s,mechanics
+Q19,natural unit of information per second,nat/s,mechanics
+Q20,second per kilogramm,s/kg,mechanics
+Q21,watt square metre,W·m²,mechanics
+Q22,second per radian cubic metre,1/(Hz·rad·m³),mechanics
+Q23,weber to the power minus one,1/Wb,mechanics
+Q24,reciprocal inch,1/in,mechanics
+Q25,dioptre,dpt,mechanics
+Q26,one per one,1/1,mechanics
+Q27,newton metre per metre,N·m/m²,mechanics
+Q28,kilogram per square metre pascal second,kg/(m²·Pa·s),mechanics
+Q29,microgram per hectogram,µg/hg,space & time
+Q30,pH (potential of Hydrogen),pH,periodic & related phenomena
+Q31,kilojoule per gram,kJ/g,space & time
+Q32,femtolitre,fl,space & time
+Q33,picolitre,pl,space & time
+Q34,nanolitre,nl,space & time
+Q35,megawatts per minute,MW/min,space & time
+Q36,square metre per cubic metre,m2/m3,mechanics
+Q37,Standard cubic metre per day,,periodic & related phenomena
+Q38,Standard cubic metre per hour,,periodic & related phenomena
+Q39,Normalized cubic metre per day,,periodic & related phenomena
+Q40,Normalized cubic metre per hour,,periodic & related phenomena
+Q41,Joule per normalised cubic metre,,periodic & related phenomena
+Q42,Joule per standard cubic metre,,periodic & related phenomena
+Q3,meal,,mechanics
+QA,page - facsimile,,mechanics
+QAN,quarter (of a year),,mechanics
+QB,page - hardcopy,,mechanics
+QR,quire,qr,mechanics
+QTD,dry quart (US),dry qt (US),periodic & related phenomena
+QTI,quart (UK),qt (UK),periodic & related phenomena
+QTL,liquid quart (US),liq qt (US),periodic & related phenomena
+QTR,quarter (UK),Qr (UK),mechanics
+R1,pica,,mechanics
+R9,thousand cubic metre,,mechanics
+RH,running or operating hour,,mechanics
+RM,ream,,mechanics
+ROM,room,,mechanics
+RP,pound per ream,,mechanics
+RPM,revolutions per minute,r/min,space & time
+RPS,revolutions per second,r/s,space & time
+RT,revenue ton mile,,mechanics
+S3,square foot per second,ft²/s,periodic & related phenomena
+S4,square metre per second,m²/s,space & time
+SAN,half year (6 months),,mechanics
+SCO,score,,mechanics
+SCR,scruple,,mechanics
+SEC,second [unit of time],s,space & time
+SET,set,,mechanics
+SG,segment,,mechanics
+SIE,siemens,S,space & time
+SM3,Standard cubic metre,,periodic & related phenomena
+SMI,mile (statute mile),mile,periodic & related phenomena
+SQ,square,,mechanics
+SQR,"square, roofing",,mechanics
+SR,strip,,mechanics
+STC,stick,,mechanics
+STI,stone (UK),st,periodic & related phenomena
+STK,"stick, cigarette",,mechanics
+STL,standard litre,,mechanics
+STN,ton (US) or short ton (UK/US),ton (US),periodic & related phenomena
+STW,straw,,mechanics
+SW,skein,,mechanics
+SX,shipment,,mechanics
+SYR,syringe,,mechanics
+T0,telecommunication line in service,,mechanics
+T3,thousand piece,,mechanics
+TAH,kiloampere hour (thousand ampere hour),kA·h,space & time
+TAN,total acid number,TAN,mechanics
+TI,thousand square inch,,mechanics
+TIC,"metric ton, including container",,mechanics
+TIP,"metric ton, including inner packaging",,mechanics
+TKM,tonne kilometre,t·km,mechanics
+TMS,"kilogram of imported meat, less offal",,mechanics
+TNE,tonne (metric ton),t,space & time
+TP,ten pack,,mechanics
+TPI,teeth per inch,TPI,mechanics
+TPR,ten pair,,mechanics
+TQD,thousand cubic metre per day,km³/d,mechanics
+TRL,trillion (EUR),,mechanics
+TST,ten set,,mechanics
+TTS,ten thousand sticks,,mechanics
+U1,treatment,,mechanics
+U2,tablet,,mechanics
+UB,telecommunication line in service average,,mechanics
+UC,telecommunication port,,mechanics
+VA,volt - ampere per kilogram,V·A / kg,mechanics
+VLT,volt,V,space & time
+VP,percent volume,,mechanics
+W2,wet kilo,,mechanics
+WA,watt per kilogram,W/kg,mechanics
+WB,wet pound,,mechanics
+WCD,cord,,mechanics
+WE,wet ton,,mechanics
+WEB,weber,Wb,space & time
+WEE,week,wk,periodic & related phenomena
+WG,wine gallon,,mechanics
+WHR,watt hour,W·h,space & time
+WM,working month,,mechanics
+WSD,standard,std,mechanics
+WTT,watt,W,space & time
+X1,Gunter's chain,ch (UK),periodic & related phenomena
+YDK,square yard,yd²,periodic & related phenomena
+YDQ,cubic yard,yd³,periodic & related phenomena
+YRD,yard,yd,periodic & related phenomena
+Z11,hanging container,,mechanics
+ZP,page,,mechanics
+ZZ,mutually defined,,mechanics
+MRW,Metre Week,m·wk,mechanics
+MKW,Square Metre Week,m²· wk,mechanics
+MQW,Cubic Metre Week,m³·wk,mechanics
+HWE,Piece Week,piece·k,mechanics
+MRD,Metre Day,m·day,mechanics
+MKD,Square Metre Day,m²·d,mechanics
+MQD,Cubic Metre Day,m³·d,mechanics
+HAD,Piece Day,piece·d,mechanics
+MRM,Metre Month,m·mo,mechanics
+MKM,Square Metre Month,m²·mo,mechanics
+MQM,Cubic Metre Month,m³·mo,mechanics
+HMO,Piece Month,piece·mo,mechanics
+DBW,Decibel watt,dBW,mechanics
+DBM,Decibel-milliwatts,dBm,mechanics
+FNU,Formazin nephelometric unit,FNU,mechanics
+NTU,Nephelometric turbidity unit,NTU,mechanics
+MTZ,millihertz,mHz,space & time
+Z9,nanomole,nmol,space & time

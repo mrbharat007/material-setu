@@ -1,0 +1,168 @@
+fsc,fsg,title
+2510,25,Vehicular Cab, Body, and Frame Structural Components
+2520,25,Vehicular Power Transmission Components
+2530,25,Vehicular Brake, Steering, Axle, Wheel, and Track Components
+2540,25,Vehicular Furniture and Accessories
+2610,26,"Tires and Tubes, Pneumatic, Except Aircraft"
+2620,26,"Tires and Tubes, Pneumatic, Aircraft"
+2630,26,"Tires, Solid and Cushion"
+2640,26,Tire Rebuilding and Tire and Tube Repair Materials
+2805,28,"Gasoline Reciprocating Engines, Except Aircraft; and Components"
+2815,28,Diesel Engines and Components
+2825,28,Steam Turbines and Components
+2830,28,Water Turbines and Water Wheels; and Components
+2835,28,"Gas Turbines and Jet Engines, Non-Aircraft; and Components"
+2895,28,Miscellaneous Engines and Components
+2910,29,"Engine Fuel System Components, Nonaircraft"
+2920,29,"Engine Electrical System Components, Nonaircraft"
+2930,29,"Engine Cooling System Components, Nonaircraft"
+2940,29,"Engine Air and Oil Filters, Strainers, and Cleaners, Nonaircraft"
+2990,29,"Miscellaneous Engine Accessories, Nonaircraft"
+3010,30,Torque Converters and Speed Changers
+3020,30,"Gears, Pulleys, Sprockets, and Transmission Chain"
+3030,30,"Belting, Drive Belts, Fan Belts, and Accessories"
+3040,30,Miscellaneous Power Transmission Equipment
+3110,31,"Bearings, Antifriction, Unmounted"
+3120,31,"Bearings, Plain, Unmounted"
+3130,31,"Bearings, Mounted"
+3403,34,Rolling Mills and Drawing Machines
+3439,34,Miscellaneous Welding, Soldering, and Brazing Supplies and Accessories
+3805,38,Earth Moving and Excavating Equipment
+3820,38,"Mining, Rock Drilling, Earth Boring, and Related Equipment"
+3610,36,Printing, Duplicating, and Bookbinding Equipment
+3655,36,Gas Generating and Dispensing Systems
+3670,36,Specialized Semiconductor, Electronic Circuit Card Manufacturing Machinery
+4010,40,Chain and Wire Rope
+4020,40,"Fiber Rope, Cordage, and Twine"
+4030,40,"Fittings for Rope, Cable, and Chain"
+4110,41,Refrigeration Equipment
+4120,41,Air Conditioning Equipment
+4130,41,Refrigeration and Air Conditioning Components
+4140,41,"Fans, Air Circulators, and Blower Equipment"
+4210,42,Fire Fighting Equipment
+4220,42,Marine Lifesaving and Diving Equipment
+4240,42,Safety and Rescue Equipment
+4310,43,Compressors and Vacuum Pumps
+4320,43,Power and Hand Pumps
+4330,43,"Centrifugals, Separators, and Pressure and Vacuum Filters"
+4410,44,Industrial Boilers
+4420,44,Heat Exchangers and Steam Condensers
+4440,44,Driers, Dehydrators, and Anhydrators
+4460,44,Air Purification Equipment
+4510,45,Plumbing Fixtures and Accessories
+4520,45,"Space Heating Equipment and Domestic Water Heaters"
+4540,45,Miscellaneous Plumbing, Heating, and Sanitation Equipment
+4710,47,"Pipe, Tube, and Rigid Tubing"
+4720,47,Hose and Flexible Tubing
+4730,47,"Fittings and Specialties; Hose, Pipe, and Tube"
+4810,48,"Valves, Powered"
+4820,48,"Valves, Nonpowered"
+4910,49,"Motor Vehicle Maintenance and Repair Shop Specialized Equipment"
+4930,49,Lubrication and Fuel Dispensing Equipment
+5110,51,"Hand Tools, Edged, Nonpowered"
+5120,51,"Hand Tools, Nonedged, Nonpowered"
+5130,51,"Hand Tools, Power Driven"
+5133,51,Drill Bits, Counterbores, and Countersinks: Hand and Machine
+5136,51,Taps, Dies, and Collets: Hand and Machine
+5210,52,"Measuring Tools, Craftsmen's"
+5220,52,"Inspection Gages and Precision Layout Tools"
+5280,52,Sets, Kits, and Outfits of Measuring Tools
+5305,53,Screws
+5306,53,Bolts
+5307,53,Studs
+5310,53,Nuts and Washers
+5315,53,"Nails, Machine Keys, and Pins"
+5320,53,Rivets
+5325,53,Fastening Devices
+5330,53,Packing and Gasket Materials
+5331,53,O-Ring
+5340,53,"Hardware, Commercial"
+5360,53,"Coil, Flat, Leaf, and Wire Springs"
+5365,53,"Bushings, Rings, Shims, and Spacers"
+5610,56,"Mineral Construction Materials, Bulk"
+5640,56,Wallboard, Building Paper, and Thermal Insulation Materials
+5680,56,Miscellaneous Construction Materials
+5905,59,Resistors
+5910,59,Capacitors
+5915,59,Filters and Networks
+5920,59,"Fuses, Arrestors, Absorbers, and Protectors"
+5925,59,Circuit Breakers
+5930,59,Switches
+5935,59,"Connectors, Electrical"
+5940,59,"Lugs, Terminals, and Terminal Strips"
+5945,59,Relays and Solenoids
+5950,59,Coils and Transformers
+5960,59,Electron Tubes and Associated Hardware
+5961,59,Semiconductor Devices and Associated Hardware
+5962,59,"Microcircuits, Electronic"
+5970,59,Electrical Insulators and Insulating Materials
+5975,59,Electrical Hardware and Supplies
+5977,59,Electrical Contact Brushes and Electrodes
+5985,59,"Antennas, Waveguides, and Related Equipment"
+5999,59,Miscellaneous Electrical and Electronic Components
+6105,61,"Motors, Electrical"
+6110,61,Electrical Control Equipment
+6115,61,"Generators and Generator Sets, Electrical"
+6120,61,Transformers: Distribution and Power Station
+6125,61,"Converters, Electrical, Rotating"
+6130,61,"Converters, Electrical, Nonrotating"
+6135,61,"Batteries, Nonrechargeable"
+6140,61,"Batteries, Rechargeable"
+6145,61,"Wire and Cable, Electrical"
+6150,61,Miscellaneous Electric Power and Distribution Equipment
+6210,62,Indoor and Outdoor Electric Lighting Fixtures
+6220,62,Electric Vehicular Lights and Fixtures
+6230,62,Electric Portable and Hand Lighting Equipment
+6240,62,Electric Lamps
+6250,62,"Ballasts, Lampholders, and Starters"
+6260,62,Nonelectrical Lighting Fixtures
+6320,63,Shipboard Alarm and Signal Systems
+6350,63,Miscellaneous Alarm, Signal, and Security Detection Systems
+6605,66,Navigational Instruments
+6620,66,Engine Instruments
+6625,66,Electrical and Electronic Properties Measuring and Testing Instruments
+6630,66,Chemical Analysis Instruments
+6635,66,Physical Properties Testing and Inspection
+6640,66,Laboratory Equipment and Supplies
+6645,66,Time Measuring Instruments
+6650,66,"Optical Instruments, Test Equipment, Components and Accessories"
+6670,66,Scales and Balances
+6675,66,"Drafting, Surveying, and Mapping Instruments"
+6680,66,"Liquid and Gas Flow, Liquid Level, and Mechanical Motion Measuring Instruments"
+6685,66,"Pressure, Temperature, and Humidity Measuring and Controlling Instruments"
+6695,66,Combination and Miscellaneous Instruments
+6810,68,Chemicals
+6820,68,Dyes
+6830,68,Gases: Compressed and Liquefied
+6840,68,Pest Control Agents and Disinfectants
+6850,68,Miscellaneous Chemical Specialties
+7510,75,Office Supplies
+7920,79,"Brooms, Brushes, Mops, and Sponges"
+7930,79,Cleaning and Polishing Compounds and Preparations
+8010,80,Paint
+8020,80,Paint and Artists' Brushes
+8030,80,Preservative and Sealing Compounds
+8040,80,Adhesives
+8110,81,"Drums and Cans"
+8120,81,"Commercial and Industrial Gas Cylinders"
+8125,81,"Bottles and Jars"
+8135,81,"Packaging and Packing Bulk Materials"
+9110,91,"Fuels, Solid"
+9130,91,"Liquid Propellants and Fuels, Petroleum Base"
+9140,91,Fuel Oils
+9150,91,"Oils and Greases: Cutting, Lubricating, and Hydraulic"
+9160,91,"Miscellaneous Waxes, Oils, and Fats"
+9310,93,Paper and Paperboard
+9320,93,Rubber Fabricated Materials
+9330,93,Plastics Fabricated Materials
+9340,93,Glass Fabricated Materials
+9350,93,Refractories and Fire Surfacing Materials
+9390,93,Miscellaneous Fabricated Nonmetallic Materials
+9505,95,Nonelectrical Wires
+9510,95,Bars and Rods
+9515,95,"Plate, Sheet, Strip, Foil, and Leaf"
+9520,95,Structural Shapes
+9525,95,"Wire, Nonelectrical, Nonferrous Base Metal"
+9530,95,"Bars and Rods, Nonferrous Base Metal"
+9535,95,"Plate, Sheet, Strip, and Foil; Nonferrous Base Metal"
+9540,95,"Structural Shapes, Nonferrous Base Metal"
